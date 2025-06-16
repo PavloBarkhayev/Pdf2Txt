@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 os
-fitz
-pymupdf
+PyPDF2
+PyMuPDF
 re
 csv
