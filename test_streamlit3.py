@@ -1,8 +1,7 @@
 import streamlit as st
 import os
 import pandas as pd
-import fitz
-#import pymupdf  # PyMuPDF
+import pymupdf  # PyMuPDF
 import re
 import csv
 
