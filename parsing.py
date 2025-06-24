@@ -3,13 +3,104 @@ import re
 import csv
 
 ### Configuration: level of extractions
-article = re.compile(r'Article\s+(\d+)\s*')
-requirement = re.compile(r'^(\d+)\.\s*(.*)')
-s_requirement = re.compile(r'^(\d+)\.\s*(.*)')
-ss_requirement = re.compile(r'^\((i+)\)\s*(.*)')
+h_elements = [
+    {'type': 'chapter', 're_cmp': re.compile(r'^CHAPTER\s+([IVX]+)\s*')},
+    {'type': 'article', 're_cmp': re.compile(r'^Article\s+(\d+)\s*$')},
+    {'type': 'req', 're_cmp': re.compile(r'^(\d+)\.\s*(.*)')},
+    {'type': 'sreq', 're_cmp': re.compile(r'^\(([a-hj-z])\)\s*(.*)')},
+    {'type': 'ssreq', 're_cmp': re.compile(r'^\((i+)\)\s*(.*)')}
+]
+
+refs = re.compile(r'\b(Article\s+\d+(?:\(\d+\))?|Annex\s+[A-Z]+)\b') #
+
+### Dictionary storing exrtacted requirements with hierachy
+res_dct = {
+    'id': 'mdr',
+    'type': 'doc',
+    'title': 'MDR REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL',
+    'body': [],
+    'page': 0,
+    'child': [],
+    'refs': [],
+    'parent': None
+}
 
 ### lines to ignore ###
 IGNORE = {'5.5.2017', 'L 117/21', 'Official Journal of the European Union', 'EN'}
+
+def extract_all(doc):
+    cur_arr, cur_ind = [res_dct] + [None] * len(h_elements), 0
+    for page_number in range(len(doc)):
+        page = doc[page_number]
+        text = page.get_text()
+        lines = text.split('\n')
+
+        for i, line in enumerate(lines):
+            if any(line.startswith(ign) for ign in IGNORE): continue
+
+            new_el = next((k for k,h_dct in enumerate(h_elements,1) if h_dct['re_cmp'].match(line)), None)
+            if new_el:
+                cur_arr[cur_ind]['refs'] = refs.findall(' '.join(cur_arr[cur_ind]['body']))
+
+                match = h_elements[new_el-1]['re_cmp'].match(line)
+                tp = h_elements[new_el-1]['type']
+                id = f'{cur_arr[new_el-1]["id"]}+{tp}_{match.group(1)}'
+                body = [match.group(2)] if new_el >= 3 else []
+                #print(id, body)
+
+                cur_arr[new_el-1]['child'].append({'id': id, 'type': tp, 'title': '', 'body': body, 'page': page_number+1, 'child': [], 'refs': [], 'parent':cur_arr[new_el-1]})
+                cur_arr[new_el] = cur_arr[new_el-1]['child'][-1]
+                
+                cur_arr[new_el+1:] = [None] * (len(h_elements) - new_el)
+                cur_ind = new_el
+            else:
+                if cur_ind == 1:
+                    cur_arr[cur_ind]['title'] += line
+                if cur_ind == 2 and cur_arr[cur_ind]['title'] == '':
+                    cur_arr[cur_ind]['title'] = line
+                elif cur_ind == 2:
+                    id = f'{cur_arr[cur_ind]["id"]}+req_noid'
+                    cur_arr[cur_ind]['child'].append({'id': id, 'type': 'req', 'title': '', 'body': [], 'page': page_number+1, 'child': [], 'refs': [], 'parent':cur_arr[cur_ind]})
+                    cur_arr[cur_ind+1] = cur_arr[cur_ind]['child'][-1]
+                    cur_ind += 1
+                
+                cur_arr[cur_ind]['body'] += [line]
+
+    return res_dct
+                
+def extract_and_write(pdf_path, output_folder='_csv'):
+    doc = pymupdf.open(pdf_path)
+    structure = extract_all(doc)
+    row_counter = 0
+
+    def write_structure(node, writer):
+        nonlocal row_counter
+        writer.writerow([node['id'], node['type'], node['title'], '\n'.join(node['body']), node['parent']['id'] if node['parent'] else '', '; '.join(node['refs']), node['page']])
+        row_counter += node['type'].endswith('req')
+        for ch in node['child']:
+            write_structure(ch, writer)
+
+    def write_toc(node, writer):
+        if not node['type'].endswith('req'):
+            writer.writerow([node['id'], node['type'], node['title'], node['parent']['id'] if node['parent'] else '', node['page']])
+            for ch in node['child']:
+                write_toc(ch, writer)
+
+    with open(f'{output_folder}/requirements.csv', 'w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['id', 'type', 'title', 'text', 'parent', 'references', 'page'])
+        
+        write_structure(structure, writer)
+
+    with open(f'{output_folder}/toc.csv', 'w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['id', 'type', 'title', 'parent', 'page'])
+        
+        write_toc(structure, writer)
+
+    return row_counter
+                
+
 
 
 def extract_articles_with_pages(doc):
