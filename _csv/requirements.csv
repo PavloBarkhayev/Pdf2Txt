@@ -1,0 +1,1487 @@
+id,type,title,text,parent,references,page
+mdr,doc,MDR REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL,,,,0
+mdr+chapter_II,chapter,"MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, REPROCESSING, CE MARKING, FREE MOVEMENT ","MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF 
+ECONOMIC OPERATORS, REPROCESSING, CE MARKING, FREE MOVEMENT ",mdr,,1
+mdr+chapter_II+article_5,article,Placing on the market and putting into service ,Placing on the market and putting into service ,mdr+chapter_II,,1
+mdr+chapter_II+article_5+req_1,req,,"
+A device may be placed on the market or put into service only if it complies with this Regulation when duly 
+supplied and properly installed, maintained and used in accordance with its intended purpose. ",mdr+chapter_II+article_5,,1
+mdr+chapter_II+article_5+req_2,req,,"
+A device shall meet the general safety and performance requirements set out in Annex I which apply to it, taking 
+into account its intended purpose. ",mdr+chapter_II+article_5,Annex I,1
+mdr+chapter_II+article_5+req_3,req,,"
+Demonstration of conformity with the general safety and performance requirements shall include a clinical 
+evaluation in accordance with Article 61. ",mdr+chapter_II+article_5,Article 61,1
+mdr+chapter_II+article_5+req_4,req,,"
+Devices that are manufactured and used within health institutions shall be considered as having been put into 
+service. ",mdr+chapter_II+article_5,,1
+mdr+chapter_II+article_5+req_5,req,,"
+With the exception of the relevant general safety and performance requirements set out in Annex I, the 
+requirements of this Regulation shall not apply to devices, manufactured and used only within health institutions 
+established in the Union, provided that all of the following conditions are met: ",mdr+chapter_II+article_5,Annex I,1
+mdr+chapter_II+article_5+req_5+sreq_a,sreq,,"the devices are not transferred to another legal entity, ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_b,sreq,,"manufacture and use of the devices occur under appropriate quality management systems, ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_c,sreq,,"the health institution justifies in its documentation that the target patient group's specific needs cannot be met, or 
+cannot be met at the appropriate level of performance by an equivalent device available on the market, ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_d,sreq,,"the health institution provides information upon request on the use of such devices to its competent authority, 
+which shall include a justification of their manufacturing, modification and use; ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_e,sreq,,"the health institution draws up a declaration which it shall make publicly available, including: ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_e+ssreq_i,ssreq,,the name and address of the manufacturing health institution; ,mdr+chapter_II+article_5+req_5+sreq_e,,1
+mdr+chapter_II+article_5+req_5+sreq_e+ssreq_ii,ssreq,,the details necessary to identify the devices; ,mdr+chapter_II+article_5+req_5+sreq_e,,1
+mdr+chapter_II+article_5+req_5+sreq_e+ssreq_iii,ssreq,,"a declaration that the devices meet the general safety and performance requirements set out in Annex I to this 
+Regulation and, where applicable, information on which requirements are not fully met with a reasoned justifi­
+cation therefor, ",mdr+chapter_II+article_5+req_5+sreq_e,Annex I,1
+mdr+chapter_II+article_5+req_5+sreq_f,sreq,,"the health institution draws up documentation that makes it possible to have an understanding of the manufacturing 
+facility, the manufacturing process, the design and performance data of the devices, including the intended purpose, 
+and that is sufficiently detailed to enable the competent authority to ascertain that the general safety and 
+performance requirements set out in Annex I to this Regulation are met; ",mdr+chapter_II+article_5+req_5,Annex I,1
+mdr+chapter_II+article_5+req_5+sreq_g,sreq,,"the health institution takes all necessary measures to ensure that all devices are manufactured in accordance with the 
+documentation referred to in point (f), and ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_5+sreq_h,sreq,,"the health institution reviews experience gained from clinical use of the devices and takes all necessary corrective 
+actions. 
+Member States may require that such health institutions submit to the competent authority any further relevant 
+information about such devices which have been manufactured and used on their territory. Member States shall retain 
+the right to restrict the manufacture and the use of any specific type of such devices and shall be permitted access to 
+inspect the activities of the health institutions. 
+This paragraph shall not apply to devices that are manufactured on an industrial scale. ",mdr+chapter_II+article_5+req_5,,1
+mdr+chapter_II+article_5+req_6,req,,"
+In order to ensure the uniform application of Annex I, the Commission may adopt implementing acts to the 
+extent necessary to resolve issues of divergent interpretation and of practical application. Those implementing acts shall 
+be adopted in accordance with the examination procedure referred to in Article 114(3). 
+",mdr+chapter_II+article_5,Annex I; Article 114,1
+mdr+chapter_II+article_6,article,Distance sales ,Distance sales ,mdr+chapter_II,,2
+mdr+chapter_II+article_6+req_1,req,,"
+A device offered by means of information society services, as defined in point (b) of Article 1(1) of 
+Directive (EU) 2015/1535, to a natural or legal person established in the Union shall comply with this Regulation. ",mdr+chapter_II+article_6,Article 1,2
+mdr+chapter_II+article_6+req_2,req,,"
+Without prejudice to national law regarding the exercise of the medical profession, a device that is not placed on 
+the market but used in the context of a commercial activity, whether in return for payment or free of charge, for the 
+provision of a diagnostic or therapeutic service offered by means of information society services as defined in point (b) 
+of Article 1(1) of Directive (EU) 2015/1535 or by other means of communication, directly or through intermediaries, to 
+a natural or legal person established in the Union shall comply with this Regulation. ",mdr+chapter_II+article_6,Article 1,2
+mdr+chapter_II+article_6+req_3,req,,"
+Upon request by a competent authority, any natural or legal person offering a device in accordance with 
+paragraph 1 or providing a service in accordance with paragraph 2 shall make available a copy of the EU declaration of 
+conformity of the device concerned. ",mdr+chapter_II+article_6,,2
+mdr+chapter_II+article_6+req_4,req,,"
+A Member State may, on grounds of protection of public health, require a provider of information society services, 
+as defined in point (b) of Article 1(1) of Directive (EU) 2015/1535, to cease its activity. ",mdr+chapter_II+article_6,Article 1,2
+mdr+chapter_II+article_7,article,Claims ,Claims ,mdr+chapter_II,,2
+mdr+chapter_II+article_7+req_noid,req,,"In the labelling, instructions for use, making available, putting into service and advertising of devices, it shall be 
+prohibited to use text, names, trademarks, pictures and figurative or other signs that may mislead the user or the patient 
+with regard to the device's intended purpose, safety and performance by: ",mdr+chapter_II+article_7,,2
+mdr+chapter_II+article_7+req_noid+sreq_a,sreq,,ascribing functions and properties to the device which the device does not have; ,mdr+chapter_II+article_7+req_noid,,2
+mdr+chapter_II+article_7+req_noid+sreq_b,sreq,,"creating a false impression regarding treatment or diagnosis, functions or properties which the device does not have; ",mdr+chapter_II+article_7+req_noid,,2
+mdr+chapter_II+article_7+req_noid+sreq_c,sreq,,"failing to inform the user or the patient of a likely risk associated with the use of the device in line with its intended 
+purpose; ",mdr+chapter_II+article_7+req_noid,,2
+mdr+chapter_II+article_7+req_noid+sreq_d,sreq,,"suggesting uses for the device other than those stated to form part of the intended purpose for which the 
+conformity assessment was carried out. ",mdr+chapter_II+article_7+req_noid,,2
+mdr+chapter_II+article_8,article,Use of harmonised standards ,Use of harmonised standards ,mdr+chapter_II,,2
+mdr+chapter_II+article_8+req_1,req,,"
+Devices that are in conformity with the relevant harmonised standards, or the relevant parts of those standards, 
+the references of which have been published in the Official Journal of the European Union, shall be presumed to be in 
+conformity with the requirements of this Regulation covered by those standards or parts thereof. 
+The first subparagraph shall also apply to system or process requirements to be fulfilled in accordance with this 
+Regulation by economic operators or sponsors, including those relating to quality management systems, risk 
+management, post-market surveillance systems, clinical investigations, clinical evaluation or post-market clinical 
+follow-up (‘PMCF’). 
+References in this Regulation to harmonised standards shall be understood as meaning harmonised standards the 
+references of which have been published in the Official Journal of the European Union. ",mdr+chapter_II+article_8,,2
+mdr+chapter_II+article_8+req_2,req,,"
+References in this Regulation to harmonised standards shall also include the monographs of the European Pharma­
+copoeia adopted in accordance with the Convention on the Elaboration of a European Pharmacopoeia, in particular on 
+surgical sutures and on interaction between medicinal products and materials used in devices containing such medicinal 
+products, provided that references to those monographs have been published in the Official Journal of the European Union. 
+L 117/22 
+",mdr+chapter_II+article_8,,2
+mdr+chapter_II+article_9,article,Common specifications ,Common specifications ,mdr+chapter_II,,3
+mdr+chapter_II+article_9+req_1,req,,"
+Without prejudice to Article 1(2) and 17(5) and the deadline laid down in those provisions, where no harmonised 
+standards exist or where relevant harmonised standards are not sufficient, or where there is a need to address public 
+health concerns, the Commission, after having consulted the MDCG, may, by means of implementing acts, adopt 
+common specifications (CS) in respect of the general safety and performance requirements set out in Annex I, the 
+technical documentation set out in Annexes II and III, the clinical evaluation and post-market clinical follow-up set out 
+in Annex XIV or the requirements regarding clinical investigation set out in Annex XV. Those implementing acts shall be 
+adopted in accordance with the examination procedure referred to in Article 114(3). ",mdr+chapter_II+article_9,Article 1; Annex I; Annex XIV; Annex XV; Article 114,3
+mdr+chapter_II+article_9+req_2,req,,"
+Devices that are in conformity with the CS referred to in paragraph 1 shall be presumed to be in conformity with 
+the requirements of this Regulation covered by those CS or the relevant parts of those CS. ",mdr+chapter_II+article_9,,3
+mdr+chapter_II+article_9+req_3,req,,"
+Manufacturers shall comply with the CS referred to in paragraph 1 unless they can duly justify that they have 
+adopted solutions that ensure a level of safety and performance that is at least equivalent thereto. ",mdr+chapter_II+article_9,,3
+mdr+chapter_II+article_9+req_4,req,,"
+Notwithstanding paragraph 3, manufacturers of products listed in Annex XVI shall comply with the relevant CS 
+for those products. ",mdr+chapter_II+article_9,Annex XVI,3
+mdr+chapter_II+article_10,article,General obligations of manufacturers ,General obligations of manufacturers ,mdr+chapter_II,,3
+mdr+chapter_II+article_10+req_1,req,,"
+When placing their devices on the market or putting them into service, manufacturers shall ensure that they have 
+been designed and manufactured in accordance with the requirements of this Regulation. ",mdr+chapter_II+article_10,,3
+mdr+chapter_II+article_10+req_2,req,,"
+Manufacturers shall establish, document, implement and maintain a system for risk management as described in 
+Section 3 of Annex I. ",mdr+chapter_II+article_10,Annex I,3
+mdr+chapter_II+article_10+req_3,req,,"
+Manufacturers shall conduct a clinical evaluation in accordance with the requirements set out in Article 61 and 
+Annex XIV, including a PMCF. ",mdr+chapter_II+article_10,Article 61; Annex XIV,3
+mdr+chapter_II+article_10+req_4,req,,"
+Manufacturers of devices other than custom-made devices shall draw up and keep up to date technical documen­
+tation for those devices. The technical documentation shall be such as to allow the conformity of the device with the 
+requirements of this Regulation to be assessed. The technical documentation shall include the elements set out in 
+Annexes II and III. 
+The Commission is empowered to adopt delegated acts in accordance with Article 115 amending, in the light of 
+technical progress, the Annexes II and III. ",mdr+chapter_II+article_10,Article 115,3
+mdr+chapter_II+article_10+req_5,req,,"
+Manufacturers of custom-made devices shall draw up, keep up to date and keep available for competent authorities 
+documentation in accordance with Section 2 of Annex XIII. ",mdr+chapter_II+article_10,Annex XIII,3
+mdr+chapter_II+article_10+req_6,req,,"
+Where compliance with the applicable requirements has been demonstrated following the applicable conformity 
+assessment procedure, manufacturers of devices, other than custom-made or investigational devices, shall draw up an EU 
+declaration of conformity in accordance with Article 19, and affix the CE marking of conformity in accordance with 
+Article 20. ",mdr+chapter_II+article_10,Article 19; Article 20,3
+mdr+chapter_II+article_10+req_7,req,,"
+Manufacturers shall comply with the obligations relating to the UDI system referred to in Article 27 and with the 
+registration obligations referred to in Articles 29 and 31. ",mdr+chapter_II+article_10,Article 27,3
+mdr+chapter_II+article_10+req_8,req,,"
+Manufacturers shall keep the technical documentation, the EU declaration of conformity and, if applicable, a copy 
+of any relevant certificate, including any amendments and supplements, issued in accordance with Article 56, available 
+for the competent authorities for a period of at least 10 years after the last device covered by the EU declaration of 
+conformity has been placed on the market. In the case of implantable devices, the period shall be at least 15 years after 
+the last device has been placed on the market. 
+Upon request by a competent authority, the manufacturer shall, as indicated therein, provide that technical documen­
+tation in its entirety or a summary thereof. 
+A manufacturer with a registered place of business outside the Union shall, in order to allow its authorised representative 
+to fulfil the tasks mentioned in Article 11(3), ensure that the authorised representative has the necessary documentation 
+permanently available. 
+L 117/23 
+",mdr+chapter_II+article_10,Article 56; Article 11,3
+mdr+chapter_II+article_10+req_9,req,,"
+Manufacturers shall ensure that procedures are in place to keep series production in conformity with the 
+requirements of this Regulation. Changes in device design or characteristics and changes in the harmonised standards or 
+CS by reference to which the conformity of a device is declared shall be adequately taken into account in a timely 
+manner. Manufacturers of devices, other than investigational devices, shall establish, document, implement, maintain, 
+keep up to date and continually improve a quality management system that shall ensure compliance with this 
+Regulation in the most effective manner and in a manner that is proportionate to the risk class and the type of device. 
+The quality management system shall cover all parts and elements of a manufacturer's organisation dealing with the 
+quality of processes, procedures and devices. It shall govern the structure, responsibilities, procedures, processes and 
+management resources required to implement the principles and actions necessary to achieve compliance with the 
+provisions of this Regulation. 
+The quality management system shall address at least the following aspects: ",mdr+chapter_II+article_10,,4
+mdr+chapter_II+article_10+req_9+sreq_a,sreq,,"a strategy for regulatory compliance, including compliance with conformity assessment procedures and procedures 
+for management of modifications to the devices covered by the system; ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_b,sreq,,"identification of applicable general safety and performance requirements and exploration of options to address those 
+requirements; ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_c,sreq,,responsibility of the management; ,mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_d,sreq,,"resource management, including selection and control of suppliers and sub-contractors; ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_e,sreq,,risk management as set out in in Section 3 of Annex I; ,mdr+chapter_II+article_10+req_9,Annex I,4
+mdr+chapter_II+article_10+req_9+sreq_f,sreq,,"clinical evaluation in accordance with Article 61 and Annex XIV, including PMCF; ",mdr+chapter_II+article_10+req_9,Article 61; Annex XIV,4
+mdr+chapter_II+article_10+req_9+sreq_g,sreq,,"product realisation, including planning, design, development, production and service provision; ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_h,sreq,,"verification of the UDI assignments made in accordance with Article 27(3) to all relevant devices and ensuring 
+consistency and validity of information provided in accordance with Article 29; ",mdr+chapter_II+article_10+req_9,Article 27; Article 29,4
+mdr+chapter_II+article_10+req_9+sreq_h+ssreq_i,ssreq,,"setting-up, implementation and maintenance of a post-market surveillance system, in accordance with Article 83; ",mdr+chapter_II+article_10+req_9+sreq_h,Article 83,4
+mdr+chapter_II+article_10+req_9+sreq_j,sreq,,"handling communication with competent authorities, notified bodies, other economic operators, customers and/or 
+other stakeholders; ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_k,sreq,,processes for reporting of serious incidents and field safety corrective actions in the context of vigilance; ,mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_l,sreq,,management of corrective and preventive actions and verification of their effectiveness; ,mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_9+sreq_m,sreq,,"processes for monitoring and measurement of output, data analysis and product improvement. ",mdr+chapter_II+article_10+req_9,,4
+mdr+chapter_II+article_10+req_10,req,,"
+Manufacturers of devices shall implement and keep up to date the post-market surveillance system in accordance 
+with Article 83. ",mdr+chapter_II+article_10,Article 83,4
+mdr+chapter_II+article_10+req_11,req,,"
+Manufacturers shall ensure that the device is accompanied by the information set out in Section 23 of Annex I in 
+an official Union language(s) determined by the Member State in which the device is made available to the user or 
+patient. The particulars on the label shall be indelible, easily legible and clearly comprehensible to the intended user or 
+patient. ",mdr+chapter_II+article_10,Annex I,4
+mdr+chapter_II+article_10+req_12,req,,"
+Manufacturers who consider or have reason to believe that a device which they have placed on the market or put 
+into service is not in conformity with this Regulation shall immediately take the necessary corrective action to bring that 
+device into conformity, to withdraw it or to recall it, as appropriate. They shall inform the distributors of the device in 
+question and, where applicable, the authorised representative and importers accordingly. 
+Where the device presents a serious risk, manufacturers shall immediately inform the competent authorities of the 
+Member States in which they made the device available and, where applicable, the notified body that issued a certificate 
+for the device in accordance with Article 56, in particular, of the non-compliance and of any corrective action taken. ",mdr+chapter_II+article_10,Article 56,4
+mdr+chapter_II+article_10+req_13,req,,"
+Manufacturers shall have a system for recording and reporting of incidents and field safety corrective actions as 
+described in Articles 87 and 88. 
+L 117/24 
+",mdr+chapter_II+article_10,,4
+mdr+chapter_II+article_10+req_14,req,,"
+Manufacturers shall, upon request by a competent authority, provide it with all the information and documen­
+tation necessary to demonstrate the conformity of the device, in an official Union language determined by the 
+Member State concerned. The competent authority of the Member State in which the manufacturer has its registered 
+place of business may require that the manufacturer provide samples of the device free of charge or, where that is 
+impracticable, grant access to the device. Manufacturers shall cooperate with a competent authority, at its request, on 
+any corrective action taken to eliminate or, if that is not possible, mitigate the risks posed by devices which they have 
+placed on the market or put into service. 
+If the manufacturer fails to cooperate or the information and documentation provided is incomplete or incorrect, the 
+competent authority may, in order to ensure the protection of public health and patient safety, take all appropriate 
+measures to prohibit or restrict the device's being made available on its national market, to withdraw the device from 
+that market or to recall it until the manufacturer cooperates or provides complete and correct information. 
+If a competent authority considers or has reason to believe that a device has caused damage, it shall, upon request, 
+facilitate the provision of the information and documentation referred to in the first subparagraph to the potentially 
+injured patient or user and, as appropriate, the patient's or user's successor in title, the patient's or user's health 
+insurance company or other third parties affected by the damage caused to the patient or user, without prejudice to data 
+protection rules and, unless there is an overriding public interest in disclosure, without prejudice to the protection of 
+intellectual property rights. 
+The competent authority need not comply with the obligation laid down in the third subparagraph where disclosure of 
+the information and documentation referred to in the first subparagraph is ordinarily dealt with in the context of legal 
+proceedings. ",mdr+chapter_II+article_10,,5
+mdr+chapter_II+article_10+req_15,req,,"
+Where manufacturers have their devices designed or manufactured by another legal or natural person the 
+information on the identity of that person shall be part of the information to be submitted in accordance with 
+Article 30(1). ",mdr+chapter_II+article_10,Article 30,5
+mdr+chapter_II+article_10+req_16,req,,"
+Natural or legal persons may claim compensation for damage caused by a defective device in accordance with 
+applicable Union and national law. 
+Manufacturers shall, in a manner that is proportionate to the risk class, type of device and the size of the enterprise, 
+have measures in place to provide sufficient financial coverage in respect of their potential liability under 
+Directive 85/374/EEC, without prejudice to more protective measures under national law. ",mdr+chapter_II+article_10,,5
+mdr+chapter_II+article_11,article,Authorised representative ,Authorised representative ,mdr+chapter_II,,5
+mdr+chapter_II+article_11+req_1,req,,"
+Where the manufacturer of a device is not established in a Member State, the device may only be placed on the 
+Union market if the manufacturer designates a sole authorised representative. ",mdr+chapter_II+article_11,,5
+mdr+chapter_II+article_11+req_2,req,,"
+The designation shall constitute the authorised representative's mandate, it shall be valid only when accepted in 
+writing by the authorised representative and shall be effective at least for all devices of the same generic device group. ",mdr+chapter_II+article_11,,5
+mdr+chapter_II+article_11+req_3,req,,"
+The authorised representative shall perform the tasks specified in the mandate agreed between it and the 
+manufacturer. The authorised representative shall provide a copy of the mandate to the competent authority, upon 
+request. 
+The mandate shall require, and the manufacturer shall enable, the authorised representative to perform at least the 
+following tasks in relation to the devices that it covers: ",mdr+chapter_II+article_11,,5
+mdr+chapter_II+article_11+req_3+sreq_a,sreq,,"verify that the EU declaration of conformity and technical documentation have been drawn up and, where 
+applicable, that an appropriate conformity assessment procedure has been carried out by the manufacturer; ",mdr+chapter_II+article_11+req_3,,5
+mdr+chapter_II+article_11+req_3+sreq_b,sreq,,"keep available a copy of the technical documentation, the EU declaration of conformity and, if applicable, a copy of 
+the relevant certificate, including any amendments and supplements, issued in accordance with Article 56, at the 
+disposal of competent authorities for the period referred to in Article 10(8); ",mdr+chapter_II+article_11+req_3,Article 56; Article 10,5
+mdr+chapter_II+article_11+req_3+sreq_c,sreq,,"comply with the registration obligations laid down in Article 31 and verify that the manufacturer has complied with 
+the registration obligations laid down in Articles 27 and 29; 
+L 117/25 
+",mdr+chapter_II+article_11+req_3,Article 31,5
+mdr+chapter_II+article_11+req_3+sreq_d,sreq,,"in response to a request from a competent authority, provide that competent authority with all the information and 
+documentation necessary to demonstrate the conformity of a device, in an official Union language determined by 
+the Member State concerned; ",mdr+chapter_II+article_11+req_3,,6
+mdr+chapter_II+article_11+req_3+sreq_e,sreq,,"forward to the manufacturer any request by a competent authority of the Member State in which the authorised rep­
+resentative has its registered place of business for samples, or access to a device and verify that the competent 
+authority receives the samples or is given access to the device; ",mdr+chapter_II+article_11+req_3,,6
+mdr+chapter_II+article_11+req_3+sreq_f,sreq,,"cooperate with the competent authorities on any preventive or corrective action taken to eliminate or, if that is not 
+possible, mitigate the risks posed by devices; ",mdr+chapter_II+article_11+req_3,,6
+mdr+chapter_II+article_11+req_3+sreq_g,sreq,,"immediately inform the manufacturer about complaints and reports from healthcare professionals, patients and 
+users about suspected incidents related to a device for which they have been designated; ",mdr+chapter_II+article_11+req_3,,6
+mdr+chapter_II+article_11+req_3+sreq_h,sreq,,terminate the mandate if the manufacturer acts contrary to its obligations under this Regulation. ,mdr+chapter_II+article_11+req_3,,6
+mdr+chapter_II+article_11+req_4,req,,"
+The mandate referred to in paragraph 3 of this Article shall not delegate the manufacturer's obligations laid down 
+in Article 10(1), (2), (3), (4), (6), (7), (9), (10), (11) and (12). ",mdr+chapter_II+article_11,Article 10,6
+mdr+chapter_II+article_11+req_5,req,,"
+Without prejudice to paragraph 4 of this Article, where the manufacturer is not established in a Member State and 
+has not complied with the obligations laid down in Article 10, the authorised representative shall be legally liable for 
+defective devices on the same basis as, and jointly and severally with, the manufacturer. ",mdr+chapter_II+article_11,Article 10,6
+mdr+chapter_II+article_11+req_6,req,,"
+An authorised representative who terminates its mandate on the ground referred to in point (h) of paragraph 3 
+shall immediately inform the competent authority of the Member State in which it is established and, where applicable, 
+the notified body that was involved in the conformity assessment for the device of the termination of the mandate and 
+the reasons therefor. ",mdr+chapter_II+article_11,,6
+mdr+chapter_II+article_11+req_7,req,,"
+Any reference in this Regulation to the competent authority of the Member State in which the manufacturer has 
+its registered place of business shall be understood as a reference to the competent authority of the Member State in 
+which the authorised representative, designated by a manufacturer referred to in paragraph 1, has its registered place of 
+business. ",mdr+chapter_II+article_11,,6
+mdr+chapter_II+article_12,article,Change of authorised representative ,Change of authorised representative ,mdr+chapter_II,,6
+mdr+chapter_II+article_12+req_noid,req,,"The detailed arrangements for a change of authorised representative shall be clearly defined in an agreement between the 
+manufacturer, where practicable the outgoing authorised representative, and the incoming authorised representative. 
+That agreement shall address at least the following aspects: ",mdr+chapter_II+article_12,,6
+mdr+chapter_II+article_12+req_noid+sreq_a,sreq,,"the date of termination of the mandate of the outgoing authorised representative and date of beginning of the 
+mandate of the incoming authorised representative; ",mdr+chapter_II+article_12+req_noid,,6
+mdr+chapter_II+article_12+req_noid+sreq_b,sreq,,"the date until which the outgoing authorised representative may be indicated in the information supplied by the 
+manufacturer, including any promotional material; ",mdr+chapter_II+article_12+req_noid,,6
+mdr+chapter_II+article_12+req_noid+sreq_c,sreq,,"the transfer of documents, including confidentiality aspects and property rights; ",mdr+chapter_II+article_12+req_noid,,6
+mdr+chapter_II+article_12+req_noid+sreq_d,sreq,,"the obligation of the outgoing authorised representative after the end of the mandate to forward to the 
+manufacturer or incoming authorised representative any complaints or reports from healthcare professionals, 
+patients or users about suspected incidents related to a device for which it had been designated as authorised rep­
+resentative. ",mdr+chapter_II+article_12+req_noid,,6
+mdr+chapter_II+article_13,article,General obligations of importers ,General obligations of importers ,mdr+chapter_II,,6
+mdr+chapter_II+article_13+req_1,req,,"
+Importers shall place on the Union market only devices that are in conformity with this Regulation. ",mdr+chapter_II+article_13,,6
+mdr+chapter_II+article_13+req_2,req,,"
+In order to place a device on the market, importers shall verify that: ",mdr+chapter_II+article_13,,6
+mdr+chapter_II+article_13+req_2+sreq_a,sreq,,the device has been CE marked and that the EU declaration of conformity of the device has been drawn up; ,mdr+chapter_II+article_13+req_2,,6
+mdr+chapter_II+article_13+req_2+sreq_b,sreq,,"a manufacturer is identified and that an authorised representative in accordance with Article 11 has been designated 
+by the manufacturer; ",mdr+chapter_II+article_13+req_2,Article 11,6
+mdr+chapter_II+article_13+req_2+sreq_c,sreq,,the device is labelled in accordance with this Regulation and accompanied by the required instructions for use; ,mdr+chapter_II+article_13+req_2,,6
+mdr+chapter_II+article_13+req_2+sreq_d,sreq,,"where applicable, a UDI has been assigned by the manufacturer in accordance with Article 27. 
+L 117/26 
+
+Where an importer considers or has reason to believe that a device is not in conformity with the requirements of this 
+Regulation, it shall not place the device on the market until it has been brought into conformity and shall inform the 
+manufacturer and the manufacturer's authorised representative. Where the importer considers or has reason to believe 
+that the device presents a serious risk or is a falsified device, it shall also inform the competent authority of the 
+Member State in which the importer is established. ",mdr+chapter_II+article_13+req_2,Article 27,6
+mdr+chapter_II+article_13+req_3,req,,"
+Importers shall indicate on the device or on its packaging or in a document accompanying the device their name, 
+registered trade name or registered trade mark, their registered place of business and the address at which they can be 
+contacted, so that their location can be established. They shall ensure that any additional label does not obscure any 
+information on the label provided by the manufacturer. ",mdr+chapter_II+article_13,,7
+mdr+chapter_II+article_13+req_4,req,,"
+Importers shall verify that the device is registered in the electronic system in accordance with Article 29. Importers 
+shall add their details to the registration in accordance with Article 31. ",mdr+chapter_II+article_13,Article 29; Article 31,7
+mdr+chapter_II+article_13+req_5,req,,"
+Importers shall ensure that, while a device is under their responsibility, storage or transport conditions do not 
+jeopardise its compliance with the general safety and performance requirements set out in Annex I and shall comply 
+with the conditions set by the manufacturer, where available. ",mdr+chapter_II+article_13,Annex I,7
+mdr+chapter_II+article_13+req_6,req,,"
+Importers shall keep a register of complaints, of non-conforming devices and of recalls and withdrawals, and 
+provide the manufacturer, authorised representative and distributors with any information requested by them, in order 
+to allow them to investigate complaints. ",mdr+chapter_II+article_13,,7
+mdr+chapter_II+article_13+req_7,req,,"
+Importers who consider or have reason to believe that a device which they have placed on the market is not in 
+conformity with this Regulation shall immediately inform the manufacturer and its authorised representative. Importers 
+shall co-operate with the manufacturer, the manufacturer's authorised representative and the competent authorities to 
+ensure that the necessary corrective action to bring that device into conformity, to withdraw or recall it is taken. Where 
+the device presents a serious risk, they shall also immediately inform the competent authorities of the Member States in 
+which they made the device available and, if applicable, the notified body that issued a certificate in accordance with 
+Article 56 for the device in question, giving details, in particular, of the non-compliance and of any corrective action 
+taken. ",mdr+chapter_II+article_13,Article 56,7
+mdr+chapter_II+article_13+req_8,req,,"
+Importers who have received complaints or reports from healthcare professionals, patients or users about 
+suspected incidents related to a device which they have placed on the market shall immediately forward this information 
+to the manufacturer and its authorised representative. ",mdr+chapter_II+article_13,,7
+mdr+chapter_II+article_13+req_9,req,,"
+Importers shall, for the period referred to in Article 10(8), keep a copy of the EU declaration of conformity and, if 
+applicable, a copy of any relevant certificate, including any amendments and supplements, issued in accordance with 
+Article 56. ",mdr+chapter_II+article_13,Article 10; Article 56,7
+mdr+chapter_II+article_13+req_10,req,,"
+Importers shall cooperate with competent authorities, at the latters' request, on any action taken to eliminate or, 
+if that is not possible, mitigate the risks posed by devices which they have placed on the market. Importers, upon 
+request by a competent authority of the Member State in which the importer has its registered place of business, shall 
+provide samples of the device free of charge or, where that is impracticable, grant access to the device. ",mdr+chapter_II+article_13,,7
+mdr+chapter_II+article_14,article,General obligations of distributors ,General obligations of distributors ,mdr+chapter_II,,7
+mdr+chapter_II+article_14+req_1,req,,"
+When making a device available on the market, distributors shall, in the context of their activities, act with due 
+care in relation to the requirements applicable. ",mdr+chapter_II+article_14,,7
+mdr+chapter_II+article_14+req_2,req,,"
+Before making a device available on the market, distributors shall verify that all of the following requirements are 
+met: ",mdr+chapter_II+article_14,,7
+mdr+chapter_II+article_14+req_2+sreq_a,sreq,,the device has been CE marked and that the EU declaration of conformity of the device has been drawn up; ,mdr+chapter_II+article_14+req_2,,7
+mdr+chapter_II+article_14+req_2+sreq_b,sreq,,the device is accompanied by the information to be supplied by the manufacturer in accordance with Article 10(11); ,mdr+chapter_II+article_14+req_2,Article 10,7
+mdr+chapter_II+article_14+req_2+sreq_c,sreq,,"for imported devices, the importer has complied with the requirements set out in Article 13(3); ",mdr+chapter_II+article_14+req_2,Article 13,7
+mdr+chapter_II+article_14+req_2+sreq_d,sreq,,"that, where applicable, a UDI has been assigned by the manufacturer. 
+In order to meet the requirements referred to in points (a), (b) and (d) of the first subparagraph the distributor may 
+apply a sampling method that is representative of the devices supplied by that distributor. 
+L 117/27 
+
+Where a distributor considers or has reason to believe that a device is not in conformity with the requirements of this 
+Regulation, it shall not make the device available on the market until it has been brought into conformity, and shall 
+inform the manufacturer and, where applicable, the manufacturer's authorised representative, and the importer. Where 
+the distributor considers or has reason to believe that the device presents a serious risk or is a falsified device, it shall 
+also inform the competent authority of the Member State in which it is established. ",mdr+chapter_II+article_14+req_2,,7
+mdr+chapter_II+article_14+req_3,req,,"
+Distributors shall ensure that, while the device is under their responsibility, storage or transport conditions comply 
+with the conditions set by the manufacturer. ",mdr+chapter_II+article_14,,8
+mdr+chapter_II+article_14+req_4,req,,"
+Distributors that consider or have reason to believe that a device which they have made available on the market is 
+not in conformity with this Regulation shall immediately inform the manufacturer and, where applicable, the manufac­
+turer's authorised representative and the importer. Distributors shall co-operate with the manufacturer and, where 
+applicable, the manufacturer's authorised representative, and the importer, and with competent authorities to ensure that 
+the necessary corrective action to bring that device into conformity, to withdraw or to recall it, as appropriate, is taken. 
+Where the distributor considers or has reason to believe that the device presents a serious risk, it shall also immediately 
+inform the competent authorities of the Member States in which it made the device available, giving details, in 
+particular, of the non-compliance and of any corrective action taken. ",mdr+chapter_II+article_14,,8
+mdr+chapter_II+article_14+req_5,req,,"
+Distributors that have received complaints or reports from healthcare professionals, patients or users about 
+suspected incidents related to a device they have made available, shall immediately forward this information to the 
+manufacturer and, where applicable, the manufacturer's authorised representative, and the importer. They shall keep 
+a register of complaints, of non-conforming devices and of recalls and withdrawals, and keep the manufacturer and, 
+where available, the authorised representative and the importer informed of such monitoring and provide them with any 
+information upon their request. ",mdr+chapter_II+article_14,,8
+mdr+chapter_II+article_14+req_6,req,,"
+Distributors shall, upon request by a competent authority, provide it with all the information and documentation 
+that is at their disposal and is necessary to demonstrate the conformity of a device. 
+Distributors shall be considered to have fulfilled the obligation referred to in the first subparagraph when the 
+manufacturer or, where applicable, the authorised representative for the device in question provides the required 
+information. Distributors shall cooperate with competent authorities, at their request, on any action taken to eliminate 
+the risks posed by devices which they have made available on the market. Distributors, upon request by a competent 
+authority, shall provide free samples of the device or, where that is impracticable, grant access to the device. ",mdr+chapter_II+article_14,,8
+mdr+chapter_II+article_15,article,Person responsible for regulatory compliance ,Person responsible for regulatory compliance ,mdr+chapter_II,,8
+mdr+chapter_II+article_15+req_1,req,,"
+Manufacturers shall have available within their organisation at least one person responsible for regulatory 
+compliance who possesses the requisite expertise in the field of medical devices. The requisite expertise shall be 
+demonstrated by either of the following qualifications: ",mdr+chapter_II+article_15,,8
+mdr+chapter_II+article_15+req_1+sreq_a,sreq,,"a diploma, certificate or other evidence of formal qualification, awarded on completion of a university degree or of 
+a course of study recognised as equivalent by the Member State concerned, in law, medicine, pharmacy, engineering 
+or another relevant scientific discipline, and at least one year of professional experience in regulatory affairs or in 
+quality management systems relating to medical devices; ",mdr+chapter_II+article_15+req_1,,8
+mdr+chapter_II+article_15+req_1+sreq_b,sreq,,"four years of professional experience in regulatory affairs or in quality management systems relating to medical 
+devices. 
+Without prejudice to national provisions regarding professional qualifications, manufacturers of custom-made devices 
+may demonstrate the requisite expertise referred to in the first subparagraph by having at least two years of professional 
+experience within a relevant field of manufacturing. ",mdr+chapter_II+article_15+req_1,,8
+mdr+chapter_II+article_15+req_2,req,,"
+Micro and small enterprises within the meaning of Commission Recommendation 2003/361/EC (1) shall not be 
+required to have the person responsible for regulatory compliance within their organisation but shall have such person 
+permanently and continuously at their disposal. 
+L 117/28 
+(1) Commission Recommendation 2003/361/ΕC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises 
+(OJ L 124, 20.5.2003, p. 36). 
+",mdr+chapter_II+article_15,,8
+mdr+chapter_II+article_15+req_3,req,,"
+The person responsible for regulatory compliance shall at least be responsible for ensuring that: ",mdr+chapter_II+article_15,,9
+mdr+chapter_II+article_15+req_3+sreq_a,sreq,,"the conformity of the devices is appropriately checked, in accordance with the quality management system under 
+which the devices are manufactured, before a device is released; ",mdr+chapter_II+article_15+req_3,,9
+mdr+chapter_II+article_15+req_3+sreq_b,sreq,,the technical documentation and the EU declaration of conformity are drawn up and kept up-to-date; ,mdr+chapter_II+article_15+req_3,,9
+mdr+chapter_II+article_15+req_3+sreq_c,sreq,,the post-market surveillance obligations are complied with in accordance with Article 10(10); ,mdr+chapter_II+article_15+req_3,Article 10,9
+mdr+chapter_II+article_15+req_3+sreq_d,sreq,,the reporting obligations referred to in Articles 87 to 91 are fulfilled; ,mdr+chapter_II+article_15+req_3,,9
+mdr+chapter_II+article_15+req_3+sreq_e,sreq,,"in the case of investigational devices, the statement referred to in Section 4.1 of Chapter II of Annex XV is issued. ",mdr+chapter_II+article_15+req_3,Annex XV,9
+mdr+chapter_II+article_15+req_4,req,,"
+If a number of persons are jointly responsible for regulatory compliance in accordance with paragraphs 1, 2 and 3, 
+their respective areas of responsibility shall be stipulated in writing. ",mdr+chapter_II+article_15,,9
+mdr+chapter_II+article_15+req_5,req,,"
+The person responsible for regulatory compliance shall suffer no disadvantage within the manufacturer's 
+organisation in relation to the proper fulfilment of his or her duties, regardless of whether or not they are employees of 
+the organisation. ",mdr+chapter_II+article_15,,9
+mdr+chapter_II+article_15+req_6,req,,"
+Authorised representatives shall have permanently and continuously at their disposal at least one person 
+responsible for regulatory compliance who possesses the requisite expertise regarding the regulatory requirements for 
+medical devices in the Union. The requisite expertise shall be demonstrated by either of the following qualifications: ",mdr+chapter_II+article_15,,9
+mdr+chapter_II+article_15+req_6+sreq_a,sreq,,"a diploma, certificate or other evidence of formal qualification, awarded on completion of a university degree or of 
+a course of study recognised as equivalent by the Member State concerned, in law, medicine, pharmacy, engineering 
+or another relevant scientific discipline, and at least one year of professional experience in regulatory affairs or in 
+quality management systems relating to medical devices; ",mdr+chapter_II+article_15+req_6,,9
+mdr+chapter_II+article_15+req_6+sreq_b,sreq,,"four years of professional experience in regulatory affairs or in quality management systems relating to medical 
+devices. ",mdr+chapter_II+article_15+req_6,,9
+mdr+chapter_II+article_16,article,"Cases in which obligations of manufacturers apply to importers, distributors or other persons ","Cases in which obligations of manufacturers apply to importers, distributors or other persons ",mdr+chapter_II,,9
+mdr+chapter_II+article_16+req_1,req,,"
+A distributor, importer or other natural or legal person shall assume the obligations incumbent on manufacturers 
+if it does any of the following: ",mdr+chapter_II+article_16,,9
+mdr+chapter_II+article_16+req_1+sreq_a,sreq,,"makes available on the market a device under its name, registered trade name or registered trade mark, except in 
+cases where a distributor or importer enters into an agreement with a manufacturer whereby the manufacturer is 
+identified as such on the label and is responsible for meeting the requirements placed on manufacturers in this 
+Regulation; ",mdr+chapter_II+article_16+req_1,,9
+mdr+chapter_II+article_16+req_1+sreq_b,sreq,,changes the intended purpose of a device already placed on the market or put into service; ,mdr+chapter_II+article_16+req_1,,9
+mdr+chapter_II+article_16+req_1+sreq_c,sreq,,"modifies a device already placed on the market or put into service in such a way that compliance with the applicable 
+requirements may be affected. 
+The first subparagraph shall not apply to any person who, while not considered a manufacturer as defined in point (30) 
+of Article 2, assembles or adapts for an individual patient a device already on the market without changing its intended 
+purpose. ",mdr+chapter_II+article_16+req_1,Article 2,9
+mdr+chapter_II+article_16+req_2,req,,"
+For the purposes of point (c) of paragraph 1, the following shall not be considered to be a modification of a device 
+that could affect its compliance with the applicable requirements: ",mdr+chapter_II+article_16,,9
+mdr+chapter_II+article_16+req_2+sreq_a,sreq,,"provision, including translation, of the information supplied by the manufacturer, in accordance with Section 23 of 
+Annex I, relating to a device already placed on the market and of further information which is necessary in order to 
+market the device in the relevant Member State; ",mdr+chapter_II+article_16+req_2,Annex I,9
+mdr+chapter_II+article_16+req_2+sreq_b,sreq,,"changes to the outer packaging of a device already placed on the market, including a change of pack size, if the 
+repackaging is necessary in order to market the device in the relevant Member State and if it is carried out in such 
+conditions that the original condition of the device cannot be affected by it. In the case of devices placed on the 
+market in sterile condition, it shall be presumed that the original condition of the device is adversely affected if the 
+packaging that is necessary for maintaining the sterile condition is opened, damaged or otherwise negatively affected 
+by the repackaging. 
+L 117/29 
+",mdr+chapter_II+article_16+req_2,,9
+mdr+chapter_II+article_16+req_3,req,,"
+A distributor or importer that carries out any of the activities mentioned in points (a) and (b) of paragraph 2 shall 
+indicate on the device or, where that is impracticable, on its packaging or in a document accompanying the device, the 
+activity carried out together with its name, registered trade name or registered trade mark, registered place of business 
+and the address at which it can be contacted, so that its location can be established. 
+Distributors and importers shall ensure that they have in place a quality management system that includes procedures 
+which ensure that the translation of information is accurate and up-to-date, and that the activities mentioned in 
+points (a) and (b) of paragraph 2 are performed by a means and under conditions that preserve the original condition of 
+the device and that the packaging of the repackaged device is not defective, of poor quality or untidy. The quality 
+management system shall cover, inter alia, procedures ensuring that the distributor or importer is informed of any 
+corrective action taken by the manufacturer in relation to the device in question in order to respond to safety issues or 
+to bring it into conformity with this Regulation. ",mdr+chapter_II+article_16,,10
+mdr+chapter_II+article_16+req_4,req,,"
+At least 28 days prior to making the relabelled or repackaged device available on the market, distributors or 
+importers carrying out any of the activities mentioned in points (a) and (b) of paragraph 2 shall inform the 
+manufacturer and the competent authority of the Member State in which they plan to make the device available of the 
+intention to make the relabelled or repackaged device available and, upon request, shall provide the manufacturer and 
+the competent authority with a sample or mock-up of the relabelled or repackaged device, including any translated label 
+and instructions for use. Within the same period of 28 days, the distributor or importer shall submit to the competent 
+authority a certificate, issued by a notified body designated for the type of devices that are subject to activities 
+mentioned in points (a) and (b) of paragraph 2, attesting that the quality management system of the distributer or 
+importer complies with the requirements laid down in paragraph 3. ",mdr+chapter_II+article_16,,10
+mdr+chapter_II+article_17,article,Single-use devices and their reprocessing ,Single-use devices and their reprocessing ,mdr+chapter_II,,10
+mdr+chapter_II+article_17+req_1,req,,"
+Reprocessing and further use of single-use devices may only take place where permitted by national law and only 
+in accordance with this Article. ",mdr+chapter_II+article_17,,10
+mdr+chapter_II+article_17+req_2,req,,"
+Any natural or legal person who reprocesses a single-use device to make it suitable for further use within the 
+Union shall be considered to be the manufacturer of the reprocessed device and shall assume the obligations incumbent 
+on manufacturers laid down in this Regulation, which include obligations relating to the traceability of the reprocessed 
+device in accordance with Chapter III of this Regulation. The reprocessor of the device shall be considered to be 
+a producer for the purpose of Article 3(1) of Directive 85/374/EEC. ",mdr+chapter_II+article_17,Article 3,10
+mdr+chapter_II+article_17+req_3,req,,"
+By way of derogation from paragraph 2, as regards single-use devices that are reprocessed and used within a health 
+institution, Member States may decide not to apply all of the rules relating to manufacturers' obligations laid down in 
+this Regulation provided that they ensure that: ",mdr+chapter_II+article_17,,10
+mdr+chapter_II+article_17+req_3+sreq_a,sreq,,"the safety and performance of the reprocessed device is equivalent to that of the original device and the 
+requirements in points (a), (b), (d), (e), (f), (g) and (h) of Article 5(5) are complied with; ",mdr+chapter_II+article_17+req_3,Article 5,10
+mdr+chapter_II+article_17+req_3+sreq_b,sreq,,"the reprocessing is performed in accordance with CS detailing the requirements concerning: 
+—  risk management, including the analysis of the construction and material, related properties of the device 
+(reverse engineering) and procedures to detect changes in the design of the original device as well as of its 
+planned application after reprocessing, 
+—  the validation of procedures for the entire process, including cleaning steps, 
+—  the product release and performance testing, 
+—  the quality management system, 
+—  the reporting of incidents involving devices that have been reprocessed, and 
+—  the traceability of reprocessed devices. 
+Member States shall encourage, and may require, health institutions to provide information to patients on the use of 
+reprocessed devices within the health institution and, where appropriate, any other relevant information on the 
+reprocessed devices that patients are treated with. 
+L 117/30 
+
+Member States shall notify the Commission and the other Member States of the national provisions introduced pursuant 
+to this paragraph and the grounds for introducing them. The Commission shall keep the information publicly available. ",mdr+chapter_II+article_17+req_3,,10
+mdr+chapter_II+article_17+req_4,req,,"
+Member States may choose to apply the provisions referred to in paragraph 3 also as regards single-use devices 
+that are reprocessed by an external reprocessor at the request of a health institution, provided that the reprocessed 
+device in its entirety is returned to that health institution and the external reprocessor complies with the requirements 
+referred to in points (a) and (b) of paragraph 3. ",mdr+chapter_II+article_17,,11
+mdr+chapter_II+article_17+req_5,req,,"
+The Commission shall adopt, in accordance with Article 9(1), the necessary CS referred to in point (b) of 
+paragraph 3 by 26 May 2020. Those CS shall be consistent with the latest scientific evidence and shall address the 
+application of the general requirements on safety and performance laid down in in this Regulation. In the event that 
+those CS are not adopted by 26 May 2020, reprocessing shall be performed in accordance with any relevant harmonised 
+standards and national provisions that cover the aspects outlined in point (b) of paragraph 3. Compliance with CS or, in 
+the absence of CS, with any relevant harmonised standards and national provisions, shall be certified by a notified body. ",mdr+chapter_II+article_17,Article 9,11
+mdr+chapter_II+article_17+req_6,req,,"
+Only single-use devices that have been placed on the market in accordance with this Regulation, or prior to 
+26 May 2020 in accordance with Directive 93/42/EEC, may be reprocessed. ",mdr+chapter_II+article_17,,11
+mdr+chapter_II+article_17+req_7,req,,"
+Only reprocessing of single-use devices that is considered safe according to the latest scientific evidence may be 
+carried out. ",mdr+chapter_II+article_17,,11
+mdr+chapter_II+article_17+req_8,req,,"
+The name and address of the legal or natural person referred to in paragraph 2 and the other relevant information 
+referred to in Section 23 of Annex I shall be indicated on the label and, where applicable, in the instructions for use of 
+the reprocessed device. 
+The name and address of the manufacturer of the original single-use device shall no longer appear on the label, but shall 
+be mentioned in the instructions for use of the reprocessed device. ",mdr+chapter_II+article_17,Annex I,11
+mdr+chapter_II+article_17+req_9,req,,"
+A Member State that permits reprocessing of single-use devices may maintain or introduce national provisions that 
+are stricter than those laid down in this Regulation and which restrict or prohibit, within its territory, the following: ",mdr+chapter_II+article_17,,11
+mdr+chapter_II+article_17+req_9+sreq_a,sreq,,"the reprocessing of single-use devices and the transfer of single-use devices to another Member State or to a third 
+country with a view to their reprocessing; ",mdr+chapter_II+article_17+req_9,,11
+mdr+chapter_II+article_17+req_9+sreq_b,sreq,,"the making available or further use of reprocessed single-use devices. 
+Member States shall notify the Commission and the other Member States of those national provisions. The Commission 
+shall make such information publicly available. ",mdr+chapter_II+article_17+req_9,,11
+mdr+chapter_II+article_17+req_10,req,,"
+The Commission shall by 27 May 2024 draw up a report on the operation of this Article and submit it to the 
+European Parliament and to the Council. On the basis of that report, the Commission shall, if appropriate, make 
+proposals for amendments to this Regulation. ",mdr+chapter_II+article_17,,11
+mdr+chapter_II+article_18,article,Implant card and information to be supplied to the patient with an implanted device ,Implant card and information to be supplied to the patient with an implanted device ,mdr+chapter_II,,11
+mdr+chapter_II+article_18+req_1,req,,"
+The manufacturer of an implantable device shall provide together with the device the following: ",mdr+chapter_II+article_18,,11
+mdr+chapter_II+article_18+req_1+sreq_a,sreq,,"information allowing the identification of the device, including the device name, serial number, lot number, the UDI, 
+the device model, as well as the name, address and the website of the manufacturer; ",mdr+chapter_II+article_18+req_1,,11
+mdr+chapter_II+article_18+req_1+sreq_b,sreq,,"any warnings, precautions or measures to be taken by the patient or a healthcare professional with regard to 
+reciprocal interference with reasonably foreseeable external influences, medical examinations or environmental 
+conditions; ",mdr+chapter_II+article_18+req_1,,11
+mdr+chapter_II+article_18+req_1+sreq_c,sreq,,any information about the expected lifetime of the device and any necessary follow-up; ,mdr+chapter_II+article_18+req_1,,11
+mdr+chapter_II+article_18+req_1+sreq_d,sreq,,"any other information to ensure safe use of the device by the patient, including the information in point (u) of 
+Section 23.4 of Annex I. 
+L 117/31 
+
+The information referred to in the first subparagraph shall be provided, for the purpose of making it available to the 
+particular patient who has been implanted with the device, by any means that allow rapid access to that information 
+and shall be stated in the language(s) determined by the concerned Member State. The information shall be written in 
+a way that is readily understood by a lay person and shall be updated where appropriate. Updates of the information 
+shall be made available to the patient via the website mentioned in point (a) of the first subparagraph. 
+In addition, the manufacturer shall provide the information referred to in point (a) of the first subparagraph on an 
+implant card delivered with the device. ",mdr+chapter_II+article_18+req_1,Annex I,11
+mdr+chapter_II+article_18+req_2,req,,"
+Member States shall require health institutions to make the information referred to in paragraph 1 available, by 
+any means that allow rapid access to that information, to any patients who have been implanted with the device, 
+together with the implant card, which shall bear their identity. ",mdr+chapter_II+article_18,,12
+mdr+chapter_II+article_18+req_3,req,,"
+The following implants shall be exempted from the obligations laid down in this Article: sutures, staples, dental 
+fillings, dental braces, tooth crowns, screws, wedges, plates, wires, pins, clips and connectors. The Commission is 
+empowered to adopt delegated acts in accordance with Article 115 to amend this list by adding other types of implants 
+to it or by removing implants therefrom. ",mdr+chapter_II+article_18,Article 115,12
+mdr+chapter_II+article_19,article,EU declaration of conformity ,EU declaration of conformity ,mdr+chapter_II,,12
+mdr+chapter_II+article_19+req_1,req,,"
+The EU declaration of conformity shall state that the requirements specified in this Regulation have been fulfilled 
+in relation to the device that is covered. The manufacturer shall continuously update the EU declaration of conformity. 
+The EU declaration of conformity shall, as a minimum, contain the information set out in Annex IV and shall be 
+translated into an official Union language or languages required by the Member State(s) in which the device is made 
+available. ",mdr+chapter_II+article_19,Annex IV,12
+mdr+chapter_II+article_19+req_2,req,,"
+Where, concerning aspects not covered by this Regulation, devices are subject to other Union legislation which 
+also requires an EU declaration of conformity by the manufacturer that fulfilment of the requirements of that legislation 
+has been demonstrated, a single EU declaration of conformity shall be drawn up in respect of all Union acts applicable 
+to the device. The declaration shall contain all the information required for identification of the Union legislation to 
+which the declaration relates. ",mdr+chapter_II+article_19,,12
+mdr+chapter_II+article_19+req_3,req,,"
+By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for compliance with 
+the requirements of this Regulation and all other Union legislation applicable to the device. ",mdr+chapter_II+article_19,,12
+mdr+chapter_II+article_19+req_4,req,,"
+The Commission is empowered to adopt delegated acts in accordance with Article 115 amending the minimum 
+content of the EU declaration of conformity set out in Annex IV in the light of technical progress. ",mdr+chapter_II+article_19,Article 115; Annex IV,12
+mdr+chapter_II+article_20,article,CE marking of conformity ,CE marking of conformity ,mdr+chapter_II,,12
+mdr+chapter_II+article_20+req_1,req,,"
+Devices, other than custom-made or investigational devices, considered to be in conformity with the requirements 
+of this Regulation shall bear the CE marking of conformity, as presented in Annex V. ",mdr+chapter_II+article_20,Annex V,12
+mdr+chapter_II+article_20+req_2,req,,"
+The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008. ",mdr+chapter_II+article_20,Article 30,12
+mdr+chapter_II+article_20+req_3,req,,"
+The CE marking shall be affixed visibly, legibly and indelibly to the device or its sterile packaging. Where such 
+affixing is not possible or not warranted on account of the nature of the device, the CE marking shall be affixed to the 
+packaging. The CE marking shall also appear in any instructions for use and on any sales packaging. ",mdr+chapter_II+article_20,,12
+mdr+chapter_II+article_20+req_4,req,,"
+The CE marking shall be affixed before the device is placed on the market. It may be followed by a pictogram or 
+any other mark indicating a special risk or use. ",mdr+chapter_II+article_20,,12
+mdr+chapter_II+article_20+req_5,req,,"
+Where applicable, the CE marking shall be followed by the identification number of the notified body responsible 
+for the conformity assessment procedures set out in Article 52. The identification number shall also be indicated in any 
+promotional material which mentions that a device fulfils the requirements for CE marking. ",mdr+chapter_II+article_20,Article 52,12
+mdr+chapter_II+article_20+req_6,req,,"
+Where devices are subject to other Union legislation which also provides for the affixing of the CE marking, the 
+CE marking shall indicate that the devices also fulfil the requirements of that other legislation. 
+L 117/32 
+",mdr+chapter_II+article_20,,12
+mdr+chapter_II+article_21,article,Devices for special purposes ,Devices for special purposes ,mdr+chapter_II,,13
+mdr+chapter_II+article_21+req_1,req,,"
+Member States shall not create obstacles to: ",mdr+chapter_II+article_21,,13
+mdr+chapter_II+article_21+req_1+sreq_a,sreq,,"investigational devices being supplied to an investigator for the purpose of a clinical investigation if they meet the 
+conditions laid down in Articles 62 to 80 and Article 82, in the implementing acts adopted pursuant to Article 81 
+and in Annex XV; ",mdr+chapter_II+article_21+req_1,Article 82; Article 81; Annex XV,13
+mdr+chapter_II+article_21+req_1+sreq_b,sreq,,"custom-made devices being made available on the market if Article 52(8) and Annex XIII have been complied with. 
+The devices referred to in the first subparagraph shall not bear the CE marking, with the exception of the devices 
+referred to in Article 74. ",mdr+chapter_II+article_21+req_1,Article 52; Annex XIII; Article 74,13
+mdr+chapter_II+article_21+req_2,req,,"
+Custom-made devices shall be accompanied by the statement referred to in Section 1 of Annex XIII, which shall be 
+made available to the particular patient or user identified by name, an acronym or a numerical code. 
+Member States may require that the manufacturer of a custom-made device submit to the competent authority a list of 
+such devices which have been made available in their territory. ",mdr+chapter_II+article_21,Annex XIII,13
+mdr+chapter_II+article_21+req_3,req,,"
+At trade fairs, exhibitions, demonstrations or similar events, Member States shall not create obstacles to the 
+showing of devices which do not comply with this Regulation, provided a visible sign clearly indicates that such devices 
+are intended for presentation or demonstration purposes only and cannot be made available until they have been 
+brought into compliance with this Regulation. ",mdr+chapter_II+article_21,,13
+mdr+chapter_II+article_22,article,Systems and procedure packs ,Systems and procedure packs ,mdr+chapter_II,,13
+mdr+chapter_II+article_22+req_1,req,,"
+Natural or legal persons shall draw up a statement if they combine devices bearing a CE marking with the 
+following other devices or products, in a manner that is compatible with the intended purpose of the devices or other 
+products and within the limits of use specified by their manufacturers, in order to place them on the market as a system 
+or procedure pack: ",mdr+chapter_II+article_22,,13
+mdr+chapter_II+article_22+req_1+sreq_a,sreq,,other devices bearing the CE marking; ,mdr+chapter_II+article_22+req_1,,13
+mdr+chapter_II+article_22+req_1+sreq_b,sreq,,in vitro diagnostic medical devices bearing the CE marking in conformity with Regulation (EU) 2017/746; ,mdr+chapter_II+article_22+req_1,,13
+mdr+chapter_II+article_22+req_1+sreq_c,sreq,,"other products which are in conformity with legislation that applies to those products only where they are used 
+within a medical procedure or their presence in the system or procedure pack is otherwise justified. ",mdr+chapter_II+article_22+req_1,,13
+mdr+chapter_II+article_22+req_2,req,,"
+In the statement made pursuant to paragraph 1, the natural or legal person concerned shall declare that: ",mdr+chapter_II+article_22,,13
+mdr+chapter_II+article_22+req_2+sreq_a,sreq,,"they verified the mutual compatibility of the devices and, if applicable other products, in accordance with the manu­
+facturers' instructions and have carried out their activities in accordance with those instructions; ",mdr+chapter_II+article_22+req_2,,13
+mdr+chapter_II+article_22+req_2+sreq_b,sreq,,"they packaged the system or procedure pack and supplied relevant information to users incorporating the 
+information to be supplied by the manufacturers of the devices or other products which have been put together; ",mdr+chapter_II+article_22+req_2,,13
+mdr+chapter_II+article_22+req_2+sreq_c,sreq,,"the activity of combining devices and, if applicable, other products as a system or procedure pack was subject to 
+appropriate methods of internal monitoring, verification and validation. ",mdr+chapter_II+article_22+req_2,,13
+mdr+chapter_II+article_22+req_3,req,,"
+Any natural or legal person who sterilises systems or procedure packs referred to in paragraph 1 for the purpose 
+of placing them on the market shall, at their choice, apply one of the procedures set out in Annex IX or the procedure 
+set out in Part A of Annex XI. The application of those procedures and the involvement of the notified body shall be 
+limited to the aspects of the procedure relating to ensuring sterility until the sterile packaging is opened or damaged. 
+The natural or legal person shall draw up a statement declaring that sterilisation has been carried out in accordance with 
+the manufacturer's instructions. ",mdr+chapter_II+article_22,Annex IX; Annex XI,13
+mdr+chapter_II+article_22+req_4,req,,"
+Where the system or procedure pack incorporates devices which do not bear the CE marking or where the chosen 
+combination of devices is not compatible in view of their original intended purpose, or where the sterilisation has not 
+been carried out in accordance with the manufacturer's instructions, the system or procedure pack shall be treated as 
+a device in its own right and shall be subject to the relevant conformity assessment procedure pursuant to Article 52. 
+The natural or legal person shall assume the obligations incumbent on manufacturers. 
+L 117/33 
+",mdr+chapter_II+article_22,Article 52,13
+mdr+chapter_II+article_22+req_5,req,,"
+The systems or procedure packs referred to in paragraph 1 of this Article shall not themselves bear an additional 
+CE marking but they shall bear the name, registered trade name or registered trade mark of the person referred to in 
+paragraphs 1 and 3 of this Article as well as the address at which that person can be contacted, so that the person's 
+location can be established. Systems or procedure packs shall be accompanied by the information referred to in 
+Section 23 of Annex I. The statement referred to in paragraph 2 of this Article shall be kept at the disposal of the 
+competent authorities, after the system or procedure pack has been put together, for the period that is applicable under 
+Article 10(8) to the devices that have been combined. Where those periods differ, the longest period shall apply. ",mdr+chapter_II+article_22,Annex I; Article 10,14
+mdr+chapter_II+article_23,article,Parts and components ,Parts and components ,mdr+chapter_II,,14
+mdr+chapter_II+article_23+req_1,req,,"
+Any natural or legal person who makes available on the market an item specifically intended to replace an 
+identical or similar integral part or component of a device that is defective or worn in order to maintain or restore the 
+function of the device without changing its performance or safety characteristics or its intended purpose, shall ensure 
+that the item does not adversely affect the safety and performance of the device. Supporting evidence shall be kept 
+available for the competent authorities of the Member States. ",mdr+chapter_II+article_23,,14
+mdr+chapter_II+article_23+req_2,req,,"
+An item that is intended specifically to replace a part or component of a device and that significantly changes the 
+performance or safety characteristics or the intended purpose of the device shall be considered to be a device and shall 
+meet the requirements laid down in this Regulation. ",mdr+chapter_II+article_23,,14
+mdr+chapter_II+article_24,article,Free movement ,Free movement ,mdr+chapter_II,,14
+mdr+chapter_II+article_24+req_noid,req,,"Except where otherwise provided for in this Regulation, Member States shall not refuse, prohibit or restrict the making 
+available on the market or putting into service within their territory of devices which comply with the requirements of 
+this Regulation. ",mdr+chapter_II+article_24,,14
+mdr+chapter_III,chapter,"IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES ","IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC 
+OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON 
+MEDICAL DEVICES ",mdr,,14
+mdr+chapter_III+article_25,article,Identification within the supply chain ,Identification within the supply chain ,mdr+chapter_III,,14
+mdr+chapter_III+article_25+req_1,req,,"
+Distributors and importers shall co-operate with manufacturers or authorised representatives to achieve an 
+appropriate level of traceability of devices. ",mdr+chapter_III+article_25,,14
+mdr+chapter_III+article_25+req_2,req,,"
+Economic operators shall be able to identify the following to the competent authority, for the period referred to in 
+Article 10(8): ",mdr+chapter_III+article_25,Article 10,14
+mdr+chapter_III+article_25+req_2+sreq_a,sreq,,any economic operator to whom they have directly supplied a device; ,mdr+chapter_III+article_25+req_2,,14
+mdr+chapter_III+article_25+req_2+sreq_b,sreq,,any economic operator who has directly supplied them with a device; ,mdr+chapter_III+article_25+req_2,,14
+mdr+chapter_III+article_25+req_2+sreq_c,sreq,,any health institution or healthcare professional to which they have directly supplied a device. ,mdr+chapter_III+article_25+req_2,,14
+mdr+chapter_III+article_26,article,Medical devices nomenclature ,Medical devices nomenclature ,mdr+chapter_III,,14
+mdr+chapter_III+article_26+req_noid,req,,"To facilitate the functioning of the European database on medical devices (‘Eudamed’) as referred to in Article 33, the 
+Commission shall ensure that an internationally recognised medical devices nomenclature is available free of charge to 
+manufacturers and other natural or legal persons required by this Regulation to use that nomenclature. The Commission 
+shall also endeavour to ensure that that nomenclature is available to other stakeholders free of charge, where reasonably 
+practicable. 
+L 117/34 
+",mdr+chapter_III+article_26,Article 33,14
+mdr+chapter_III+article_27,article,Unique Device Identification system ,Unique Device Identification system ,mdr+chapter_III,,15
+mdr+chapter_III+article_27+req_1,req,,"
+The Unique Device Identification system (‘UDI system’) described in Part C of Annex VI shall allow the identifi­
+cation and facilitate the traceability of devices, other than custom-made and investigational devices, and shall consist of 
+the following: ",mdr+chapter_III+article_27,Annex VI,15
+mdr+chapter_III+article_27+req_1+sreq_a,sreq,,production of a UDI that comprises the following: ,mdr+chapter_III+article_27+req_1,,15
+mdr+chapter_III+article_27+req_1+sreq_a+ssreq_i,ssreq,,"a UDI device identifier (‘UDI-DI’) specific to a manufacturer and a device, providing access to the information 
+laid down in Part B of Annex VI; ",mdr+chapter_III+article_27+req_1+sreq_a,Annex VI,15
+mdr+chapter_III+article_27+req_1+sreq_a+ssreq_ii,ssreq,,"a UDI production identifier (‘UDI-PI’) that identifies the unit of device production and if applicable the packaged 
+devices, as specified in Part C of Annex VI; ",mdr+chapter_III+article_27+req_1+sreq_a,Annex VI,15
+mdr+chapter_III+article_27+req_1+sreq_b,sreq,,placing of the UDI on the label of the device or on its packaging; ,mdr+chapter_III+article_27+req_1,,15
+mdr+chapter_III+article_27+req_1+sreq_c,sreq,,"storage of the UDI by economic operators, health institutions and healthcare professionals, in accordance with the 
+conditions laid down in paragraphs 8 and 9 of this Article respectively; ",mdr+chapter_III+article_27+req_1,,15
+mdr+chapter_III+article_27+req_1+sreq_d,sreq,,"establishment of an electronic system for Unique Device Identification (‘UDI database’) in accordance with 
+Article 28. ",mdr+chapter_III+article_27+req_1,Article 28,15
+mdr+chapter_III+article_27+req_2,req,,"
+The Commission shall, by means of implementing acts, designate one or several entities to operate a system for 
+assignment of UDIs pursuant to this Regulation (‘issuing entity’). That entity or those entities shall satisfy all of the 
+following criteria: ",mdr+chapter_III+article_27,,15
+mdr+chapter_III+article_27+req_2+sreq_a,sreq,,the entity is an organisation with legal personality; ,mdr+chapter_III+article_27+req_2,,15
+mdr+chapter_III+article_27+req_2+sreq_b,sreq,,"its system for the assignment of UDIs is adequate to identify a device throughout its distribution and use in 
+accordance with the requirements of this Regulation; ",mdr+chapter_III+article_27+req_2,,15
+mdr+chapter_III+article_27+req_2+sreq_c,sreq,,its system for the assignment of UDIs conforms to the relevant international standards; ,mdr+chapter_III+article_27+req_2,,15
+mdr+chapter_III+article_27+req_2+sreq_d,sreq,,"the entity gives access to its system for the assignment of UDIs to all interested users in accordance with a set of 
+predetermined and transparent terms and conditions; ",mdr+chapter_III+article_27+req_2,,15
+mdr+chapter_III+article_27+req_2+sreq_e,sreq,,the entity undertakes to do the following: ,mdr+chapter_III+article_27+req_2,,15
+mdr+chapter_III+article_27+req_2+sreq_e+ssreq_i,ssreq,,operate its system for the assignment of UDIs for at least 10 years after its designation; ,mdr+chapter_III+article_27+req_2+sreq_e,,15
+mdr+chapter_III+article_27+req_2+sreq_e+ssreq_ii,ssreq,,"make available to the Commission and to the Member States, upon request, information concerning its system 
+for the assignment of UDIs; ",mdr+chapter_III+article_27+req_2+sreq_e,,15
+mdr+chapter_III+article_27+req_2+sreq_e+ssreq_iii,ssreq,,"remain in compliance with the criteria for designation and the terms of designation. 
+When designating issuing entities, the Commission shall endeavour to ensure that UDI carriers, as defined in Part C of 
+Annex VI, are universally readable regardless of the system used by the issuing entity, with a view to minimising 
+financial and administrative burdens for economic operators and health institutions. ",mdr+chapter_III+article_27+req_2+sreq_e,Annex VI,15
+mdr+chapter_III+article_27+req_3,req,,"
+Before placing a device, other than a custom-made device, on the market, the manufacturer shall assign to the 
+device and, if applicable, to all higher levels of packaging, a UDI created in compliance with the rules of the issuing 
+entity designated by the Commission in accordance with paragraph 2. 
+Before a device, other than a custom-made or investigational device, is placed on the market the manufacturer shall 
+ensure that the information referred to in Part B of Annex VI of the device in question are correctly submitted and 
+transferred to the UDI database referred to in Article 28. ",mdr+chapter_III+article_27,Annex VI; Article 28,15
+mdr+chapter_III+article_27+req_4,req,,"
+UDI carriers shall be placed on the label of the device and on all higher levels of packaging. Higher levels of 
+packaging shall not be understood to include shipping containers. ",mdr+chapter_III+article_27,,15
+mdr+chapter_III+article_27+req_5,req,,"
+The UDI shall be used for reporting serious incidents and field safety corrective actions in accordance with 
+Article 87. ",mdr+chapter_III+article_27,Article 87,15
+mdr+chapter_III+article_27+req_6,req,,"
+The Basic UDI-DI, as defined in Part C of Annex VI, of the device shall appear on the EU declaration of conformity 
+referred to in Article 19. ",mdr+chapter_III+article_27,Annex VI; Article 19,15
+mdr+chapter_III+article_27+req_7,req,,"
+As part of the technical documentation referred to in Annex II, the manufacturer shall keep up-to-date a list of all 
+UDIs that it has assigned. 
+L 117/35 
+",mdr+chapter_III+article_27,Annex II,15
+mdr+chapter_III+article_27+req_8,req,,"
+Economic operators shall store and keep, preferably by electronic means, the UDI of the devices which they have 
+supplied or with which they have been supplied, if those devices belong to: 
+—  class III implantable devices; 
+—  the devices, categories or groups of devices determined by a measure referred to in point (a) of paragraph 11. ",mdr+chapter_III+article_27,,16
+mdr+chapter_III+article_27+req_9,req,,"
+Health institutions shall store and keep preferably by electronic means the UDI of the devices which they have 
+supplied or with which they have been supplied, if those devices belong to class III implantable devices. 
+For devices other than class III implantable devices, Member States shall encourage, and may require, health institutions 
+to store and keep, preferably by electronic means, the UDI of the devices with which they have been supplied. 
+Member States shall encourage, and may require, healthcare professionals to store and keep preferably by electronic 
+means, the UDI of the devices with which they have been supplied with. ",mdr+chapter_III+article_27,,16
+mdr+chapter_III+article_27+req_10,req,,"
+The Commission is empowered to adopt delegated acts in accordance with Article 115: ",mdr+chapter_III+article_27,Article 115,16
+mdr+chapter_III+article_27+req_10+sreq_a,sreq,,amending the list of information set out in Part B of Annex VI in the light of technical progress; and ,mdr+chapter_III+article_27+req_10,Annex VI,16
+mdr+chapter_III+article_27+req_10+sreq_b,sreq,,"amending Annex VI in the light of international developments and technical progress in the field of Unique Device 
+Identification. ",mdr+chapter_III+article_27+req_10,Annex VI,16
+mdr+chapter_III+article_27+req_11,req,,"
+The Commission may, by means of implementing acts, specify the detailed arrangements and the procedural 
+aspects for the UDI system with a view to ensuring its harmonised application in relation to any of the following: ",mdr+chapter_III+article_27,,16
+mdr+chapter_III+article_27+req_11+sreq_a,sreq,,"determining the devices, categories or groups of devices to which the obligation laid down in paragraph 8 is to 
+apply; ",mdr+chapter_III+article_27+req_11,,16
+mdr+chapter_III+article_27+req_11+sreq_b,sreq,,"specifying the data to be included in the UDI-PI of specific devices or device groups; 
+The implementing acts referred to in the first subparagraph shall be adopted in accordance with the examination 
+procedure referred to in Article 114(3). ",mdr+chapter_III+article_27+req_11,Article 114,16
+mdr+chapter_III+article_27+req_12,req,,"
+When adopting the measures referred to in paragraph 11, the Commission shall take into account all of the 
+following: ",mdr+chapter_III+article_27,,16
+mdr+chapter_III+article_27+req_12+sreq_a,sreq,,confidentiality and data protection as referred to in Articles 109 and 110 respectively; ,mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_27+req_12+sreq_b,sreq,,the risk-based approach; ,mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_27+req_12+sreq_c,sreq,,the cost-effectiveness of the measures; ,mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_27+req_12+sreq_d,sreq,,the convergence of UDI systems developed at international level; ,mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_27+req_12+sreq_e,sreq,,the need to avoid duplications in the UDI system; ,mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_27+req_12+sreq_f,sreq,,"the needs of the healthcare systems of the Member States, and where possible, compatibility with other medical 
+device identification systems that are used by stakeholders. ",mdr+chapter_III+article_27+req_12,,16
+mdr+chapter_III+article_28,article,UDI database ,UDI database ,mdr+chapter_III,,16
+mdr+chapter_III+article_28+req_1,req,,"
+The Commission, after consulting the MDCG shall set up and manage a UDI database to validate, collate, process 
+and make available to the public the information mentioned in Part B of Annex VI. ",mdr+chapter_III+article_28,Annex VI,16
+mdr+chapter_III+article_28+req_2,req,,"
+When designing the UDI database, the Commission shall take into account the general principles set out in 
+Section 5 of Part C of Annex VI. The UDI database shall be designed in particular such that no UDI-PIs and no 
+commercially confidential product information can be included therein. ",mdr+chapter_III+article_28,Annex VI,16
+mdr+chapter_III+article_28+req_3,req,,"
+The core data elements to be provided to the UDI database, referred to in Part B of Annex VI, shall be accessible to 
+the public free of charge. ",mdr+chapter_III+article_28,Annex VI,16
+mdr+chapter_III+article_28+req_4,req,,"
+The technical design of the UDI database shall ensure maximum accessibility to information stored therein, 
+including multi-user access and automatic uploads and downloads of that information. The Commission shall provide 
+for technical and administrative support to manufacturers and other users of the UDI database. 
+L 117/36 
+",mdr+chapter_III+article_28,,16
+mdr+chapter_III+article_29,article,Registration of devices ,Registration of devices ,mdr+chapter_III,,17
+mdr+chapter_III+article_29+req_1,req,,"
+Before placing a device, other than a custom-made device, on the market, the manufacturer shall, in accordance 
+with the rules of the issuing entity referred to in Article 27(2), assign a Basic UDI-DI as defined in Part C of Annex VI to 
+the device and shall provide it to the UDI database together with the other core data elements referred to in Part B of 
+Annex VI related to that device. ",mdr+chapter_III+article_29,Article 27; Annex VI; Annex VI,17
+mdr+chapter_III+article_29+req_2,req,,"
+Before placing on the market a system or procedure pack pursuant to Article 22(1) and (3), that is not a custom- 
+made device, the natural or legal person responsible shall assign to the system or procedure pack, in compliance with 
+the rules of the issuing entity, a Basic UDI-DI and shall provide it to the UDI database together with the other core data 
+elements referred to in Part B of Annex VI related to that system or procedure pack. ",mdr+chapter_III+article_29,Article 22; Annex VI,17
+mdr+chapter_III+article_29+req_3,req,,"
+For devices that are the subject of a conformity assessment as referred to in Article 52(3) and in the second and 
+third subparagraphs of Article 52(4), the assignment of a Basic UDI-DI referred to in paragraph 1 of this Article shall be 
+done before the manufacturer applies to a notified body for that assessment. 
+For the devices referred to in the first subparagraph, the notified body shall include a reference to the Basic UDI-DI on 
+the certificate issued in accordance with point (a) of Section 4 of Chapter I of Annex XII and confirm in Eudamed that 
+the information referred to in Section 2.2 of Part A of Annex VI is correct. After the issuing of the relevant certificate 
+and before placing the device on the market, the manufacturer shall provide the Basic UDI-DI to the UDI database 
+together with the other core data elements referred to in Part B of Annex VI related to that device. ",mdr+chapter_III+article_29,Article 52; Article 52; Annex XII; Annex VI; Annex VI,17
+mdr+chapter_III+article_29+req_4,req,,"
+Before placing a device on the market, other than a custom-made device, the manufacturer shall enter or if, already 
+provided, verify in Eudamed the information referred to in Section 2 of Part A of Annex VI, with the exception of 
+Section 2.2 thereof, and shall thereafter keep the information updated. ",mdr+chapter_III+article_29,Annex VI,17
+mdr+chapter_III+article_30,article,Electronic system for registration of economic operators ,Electronic system for registration of economic operators ,mdr+chapter_III,,17
+mdr+chapter_III+article_30+req_1,req,,"
+The Commission, after consulting the MDCG, shall set up and manage an electronic system to create the single 
+registration number referred to in Article 31(2) and to collate and process information that is necessary and propor­
+tionate to identify the manufacturer and, where applicable, the authorised representative and the importer. The details 
+regarding the information to be provided to that electronic system by the economic operators are laid down in Section 1 
+of Part A of Annex VI. ",mdr+chapter_III+article_30,Article 31; Annex VI,17
+mdr+chapter_III+article_30+req_2,req,,"
+Member States may maintain or introduce national provisions on registration of distributors of devices which have 
+been made available on their territory. ",mdr+chapter_III+article_30,,17
+mdr+chapter_III+article_30+req_3,req,,"
+Within two weeks of placing a device, other than a custom-made device, on the market, importers shall verify that 
+the manufacturer or authorised representative has provided to the electronic system the information referred to in 
+paragraph 1. 
+Where applicable, importers shall inform the relevant authorised representative or manufacturer if the information 
+referred to in paragraph 1 is not included or is incorrect. Importers shall add their details to the relevant entry/entries. ",mdr+chapter_III+article_30,,17
+mdr+chapter_III+article_31,article,"Registration of manufacturers, authorised representatives and importers ","Registration of manufacturers, authorised representatives and importers ",mdr+chapter_III,,17
+mdr+chapter_III+article_31+req_1,req,,"
+Before placing a device, other than a custom-made device, on the market, manufacturers, authorised representatives 
+and importers shall, in order to register, submit to the electronic system referred to in Article 30 the information 
+referred to in Section 1 of Part A of Annex VI, provided that they have not already registered in accordance with this 
+Article. In cases where the conformity assessment procedure requires the involvement of a notified body pursuant to 
+Article 52, the information referred to in Section 1 of Part A of Annex VI shall be provided to that electronic system 
+before applying to the notified body. ",mdr+chapter_III+article_31,Article 30; Annex VI; Article 52; Annex VI,17
+mdr+chapter_III+article_31+req_2,req,,"
+After having verified the data entered pursuant to paragraph 1, the competent authority shall obtain a single 
+registration number (‘SRN’) from the electronic system referred to in Article 30 and issue it to the manufacturer, the 
+authorised representative or the importer. 
+L 117/37 
+",mdr+chapter_III+article_31,Article 30,17
+mdr+chapter_III+article_31+req_3,req,,"
+The manufacturer shall use the SRN when applying to a notified body for conformity assessment and for accessing 
+Eudamed in order to fulfil its obligations under Article 29. ",mdr+chapter_III+article_31,Article 29,18
+mdr+chapter_III+article_31+req_4,req,,"
+Within one week of any change occurring in relation to the information referred to in paragraph 1 of this Article, 
+the economic operator shall update the data in the electronic system referred to in Article 30. ",mdr+chapter_III+article_31,Article 30,18
+mdr+chapter_III+article_31+req_5,req,,"
+Not later than one year after submission of the information in accordance with paragraph 1, and every second 
+year thereafter, the economic operator shall confirm the accuracy of the data. In the event of a failure to do so within 
+six months of those deadlines, any Member State may take appropriate corrective measures within its territory until that 
+economic operator complies with that obligation. ",mdr+chapter_III+article_31,,18
+mdr+chapter_III+article_31+req_6,req,,"
+Without prejudice to the economic operator's responsibility for the data, the competent authority shall verify the 
+confirmed data referred to in Section 1 of Part A of Annex VI. ",mdr+chapter_III+article_31,Annex VI,18
+mdr+chapter_III+article_31+req_7,req,,"
+The data entered pursuant to paragraph 1 of this Article in the electronic system referred to in Article 30 shall be 
+accessible to the public. ",mdr+chapter_III+article_31,Article 30,18
+mdr+chapter_III+article_31+req_8,req,,"
+The competent authority may use the data to charge the manufacturer, the authorised representative or the 
+importer a fee pursuant to Article 111. ",mdr+chapter_III+article_31,Article 111,18
+mdr+chapter_III+article_32,article,Summary of safety and clinical performance ,Summary of safety and clinical performance ,mdr+chapter_III,,18
+mdr+chapter_III+article_32+req_1,req,,"
+For implantable devices and for class III devices, other than custom-made or investigational devices, the 
+manufacturer shall draw up a summary of safety and clinical performance. 
+The summary of safety and clinical performance shall be written in a way that is clear to the intended user and, if 
+relevant, to the patient and shall be made available to the public via Eudamed. 
+The draft of the summary of safety and clinical performance shall be part of the documentation to be submitted to the 
+notified body involved in the conformity assessment pursuant to Article 52 and shall be validated by that body. After its 
+validation, the notified body shall upload the summary to Eudamed. The manufacturer shall mention on the label or 
+instructions for use where the summary is available. ",mdr+chapter_III+article_32,Article 52,18
+mdr+chapter_III+article_32+req_2,req,,"
+The summary of safety and clinical performance shall include at least the following aspects: ",mdr+chapter_III+article_32,,18
+mdr+chapter_III+article_32+req_2+sreq_a,sreq,,"the identification of the device and the manufacturer, including the Basic UDI-DI and, if already issued, the SRN; ",mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_b,sreq,,"the intended purpose of the device and any indications, contraindications and target populations; ",mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_c,sreq,,"a description of the device, including a reference to previous generation(s) or variants if such exist, and a description 
+of the differences, as well as, where relevant, a description of any accessories, other devices and products, which are 
+intended to be used in combination with the device; ",mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_d,sreq,,possible diagnostic or therapeutic alternatives; ,mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_e,sreq,,reference to any harmonised standards and CS applied; ,mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_f,sreq,,"the summary of clinical evaluation as referred to in Annex XIV, and relevant information on post-market clinical 
+follow-up; ",mdr+chapter_III+article_32+req_2,Annex XIV,18
+mdr+chapter_III+article_32+req_2+sreq_g,sreq,,suggested profile and training for users; ,mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_2+sreq_h,sreq,,"information on any residual risks and any undesirable effects, warnings and precautions. ",mdr+chapter_III+article_32+req_2,,18
+mdr+chapter_III+article_32+req_3,req,,"
+The Commission may, by means of implementing acts, set out the form and the presentation of the data elements 
+to be included in the summary of safety and clinical performance. Those implementing acts shall be adopted in 
+accordance with the advisory procedure referred to in Article 114(2). ",mdr+chapter_III+article_32,Article 114,18
+mdr+chapter_III+article_33,article,European database on medical devices ,European database on medical devices ,mdr+chapter_III,,18
+mdr+chapter_III+article_33+req_1,req,,"
+The Commission, after consulting the MDCG, shall set up, maintain and manage the European database on 
+medical devices (‘Eudamed’) for the following purposes: ",mdr+chapter_III+article_33,,18
+mdr+chapter_III+article_33+req_1+sreq_a,sreq,,"to enable the public to be adequately informed about devices placed on the market, the corresponding certificates 
+issued by notified bodies and about the relevant economic operators; 
+L 117/38 
+",mdr+chapter_III+article_33+req_1,,18
+mdr+chapter_III+article_33+req_1+sreq_b,sreq,,to enable unique identification of devices within the internal market and to facilitate their traceability; ,mdr+chapter_III+article_33+req_1,,19
+mdr+chapter_III+article_33+req_1+sreq_c,sreq,,"to enable the public to be adequately informed about clinical investigations and to enable sponsors of clinical investi­
+gations to comply with obligations under Articles 62 to 80, Article 82, and any acts adopted pursuant to Article 81; ",mdr+chapter_III+article_33+req_1,Article 82; Article 81,19
+mdr+chapter_III+article_33+req_1+sreq_d,sreq,,"to enable manufacturers to comply with the information obligations laid down in Articles 87 to 90 or in any acts 
+adopted pursuant to Article 91; ",mdr+chapter_III+article_33+req_1,Article 91,19
+mdr+chapter_III+article_33+req_1+sreq_e,sreq,,"to enable the competent authorities of the Member States and the Commission to carry out their tasks relating to 
+this Regulation on a well-informed basis and to enhance the cooperation between them. ",mdr+chapter_III+article_33+req_1,,19
+mdr+chapter_III+article_33+req_2,req,,"
+Eudamed shall include the following electronic systems: ",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_33+req_2+sreq_a,sreq,,the electronic system for registration of devices referred to in Article 29(4); ,mdr+chapter_III+article_33+req_2,Article 29,19
+mdr+chapter_III+article_33+req_2+sreq_b,sreq,,the UDI-database referred to in Article 28; ,mdr+chapter_III+article_33+req_2,Article 28,19
+mdr+chapter_III+article_33+req_2+sreq_c,sreq,,the electronic system on registration of economic operators referred to in Article 30; ,mdr+chapter_III+article_33+req_2,Article 30,19
+mdr+chapter_III+article_33+req_2+sreq_d,sreq,,the electronic system on notified bodies and on certificates referred to in Article 57; ,mdr+chapter_III+article_33+req_2,Article 57,19
+mdr+chapter_III+article_33+req_2+sreq_e,sreq,,the electronic system on clinical investigations referred to in Article 73; ,mdr+chapter_III+article_33+req_2,Article 73,19
+mdr+chapter_III+article_33+req_2+sreq_f,sreq,,the electronic system on vigilance and post-market surveillance referred to in Article 92; ,mdr+chapter_III+article_33+req_2,Article 92,19
+mdr+chapter_III+article_33+req_2+sreq_g,sreq,,the electronic system on market surveillance referred to in Article 100. ,mdr+chapter_III+article_33+req_2,Article 100,19
+mdr+chapter_III+article_33+req_3,req,,"
+When designing Eudamed the Commission shall give due consideration to compatibility with national databases 
+and national web-interfaces to allow for import and export of data. ",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_33+req_4,req,,"
+The data shall be entered into Eudamed by the Member States, notified bodies, economic operators and sponsors 
+as specified in the provisions on the electronic systems referred to in paragraph 2. The Commission shall provide for 
+technical and administrative support to users of Eudamed. ",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_33+req_5,req,,"
+All the information collated and processed by Eudamed shall be accessible to the Member States and to the 
+Commission. The information shall be accessible to notified bodies, economic operators, sponsors and the public to the 
+extent specified in the provisions on the electronic systems referred to in paragraph 2. 
+The Commission shall ensure that public parts of Eudamed are presented in a user-friendly and easily-searchable format. ",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_33+req_6,req,,"
+Eudamed shall contain personal data only insofar as necessary for the electronic systems referred to in paragraph 2 
+of this Article to collate and process information in accordance with this Regulation. Personal data shall be kept in 
+a form which permits identification of data subjects for periods no longer than those referred to in Article 10(8). ",mdr+chapter_III+article_33,Article 10,19
+mdr+chapter_III+article_33+req_7,req,,"
+The Commission and the Member States shall ensure that data subjects may effectively exercise their rights to 
+information, of access, to rectification and to object in accordance with Regulation (EC) No 45/2001 and 
+Directive 95/46/EC, respectively. They shall also ensure that data subjects may effectively exercise the right of access to 
+data relating to them, and the right to have inaccurate or incomplete data corrected and erased. Within their respective 
+responsibilities, the Commission and the Member States shall ensure that inaccurate and unlawfully processed data are 
+deleted, in accordance with the applicable legislation. Corrections and deletions shall be carried out as soon as possible, 
+but no later than 60 days after a request is made by a data subject. ",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_33+req_8,req,,"
+The Commission shall, by means of implementing acts, lay down the detailed arrangements necessary for the 
+setting up and maintenance of Eudamed. Those implementing acts shall be adopted in accordance with the examination 
+procedure referred to in Article 114(3). When adopting those implementing acts, the Commission shall ensure that, as 
+far as possible, the system is developed in such a way as to avoid having to enter the same information twice within the 
+same module or in different modules of the system. ",mdr+chapter_III+article_33,Article 114,19
+mdr+chapter_III+article_33+req_9,req,,"
+In relation to its responsibilities under this Article and the processing of personal data involved therein, the 
+Commission shall be considered to be the controller of Eudamed and its electronic systems. 
+L 117/39 
+",mdr+chapter_III+article_33,,19
+mdr+chapter_III+article_34,article,Functionality of Eudamed ,Functionality of Eudamed ,mdr+chapter_III,,20
+mdr+chapter_III+article_34+req_1,req,,"
+The Commission shall, in collaboration with the MDCG, draw up the functional specifications for Eudamed. The 
+Commission shall draw up a plan for the implementation of those specifications by 26 May 2018. That plan shall seek 
+to ensure that Eudamed is fully functional at a date that allows the Commission to publish the notice referred to in 
+paragraph 3 of this Article by 25 March 2020 and that all other relevant deadlines laid down in Article 123 of this 
+Regulation and in Article 113 of Regulation (EU) 2017/746 are met. ",mdr+chapter_III+article_34,Article 123; Article 113,20
+mdr+chapter_III+article_34+req_2,req,,"
+The Commission shall, on the basis of an independent audit report, inform the MDCG when it has verified that 
+Eudamed has achieved full functionality and Eudamed meets the functional specifications drawn up pursuant to 
+paragraph 1. ",mdr+chapter_III+article_34,,20
+mdr+chapter_III+article_34+req_3,req,,"
+The Commission shall, after consultation with the MDCG and when it is satisfied that the conditions referred to in 
+paragraph 2 have been fulfilled, publish a notice to that effect in the Official Journal of the European Union. ",mdr+chapter_III+article_34,,20
+mdr+chapter_IV,chapter,NOTIFIED BODIES ,NOTIFIED BODIES ,mdr,,20
+mdr+chapter_IV+article_35,article,Authorities responsible for notified bodies ,Authorities responsible for notified bodies ,mdr+chapter_IV,,20
+mdr+chapter_IV+article_35+req_1,req,,"
+Any Member State that intends to designate a conformity assessment body as a notified body, or has designated 
+a notified body, to carry out conformity assessment activities under this Regulation shall appoint an authority (‘authority 
+responsible for notified bodies’), which may consist of separate constituent entities under national law and shall be 
+responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of 
+conformity assessment bodies and for the monitoring of notified bodies, including subcontractors and subsidiaries of 
+those bodies. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_2,req,,"
+The authority responsible for notified bodies shall be established, organised and operated so as to safeguard the 
+objectivity and impartiality of its activities and to avoid any conflicts of interests with conformity assessment bodies. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_3,req,,"
+The authority responsible for notified bodies shall be organised in a manner such that each decision relating to 
+designation or notification is taken by personnel different from those who carried out the assessment. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_4,req,,"
+The authority responsible for notified bodies shall not perform any activities that notified bodies perform on 
+a commercial or competitive basis. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_5,req,,"
+The authority responsible for notified bodies shall safeguard the confidential aspects of the information it obtains. 
+However, it shall exchange information on notified bodies with other Member States, the Commission and, when 
+required, with other regulatory authorities. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_6,req,,"
+The authority responsible for notified bodies shall have a sufficient number of competent personnel permanently 
+available for the proper performance of its tasks. 
+Where the authority responsible for notified bodies is a different authority from the national competent authority for 
+medical devices, it shall ensure that the national authority responsible for medical devices is consulted on relevant 
+matters. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_7,req,,"
+Member States shall make publicly available general information on their measures governing the assessment, 
+designation and notification of conformity assessment bodies and for the monitoring of notified bodies, and on changes 
+which have a significant impact on such tasks. ",mdr+chapter_IV+article_35,,20
+mdr+chapter_IV+article_35+req_8,req,,"
+The authority responsible for notified bodies shall participate in the peer-review activities provided for in 
+Article 48. 
+L 117/40 
+",mdr+chapter_IV+article_35,Article 48,20
+mdr+chapter_IV+article_36,article,Requirements relating to notified bodies ,Requirements relating to notified bodies ,mdr+chapter_IV,,21
+mdr+chapter_IV+article_36+req_1,req,,"
+Notified bodies shall fulfil the tasks for which they are designated in accordance with this Regulation. They shall 
+satisfy the organisational and general requirements and the quality management, resource and process requirements that 
+are necessary to fulfil those tasks. In particular, notified bodies shall comply with Annex VII. 
+In order to meet the requirements referred to in the first subparagraph, notified bodies shall have permanent availability 
+of sufficient administrative, technical and scientific personnel in accordance with Section 3.1.1 of Annex VII and 
+personnel with relevant clinical expertise in accordance with Section 3.2.4 of Annex VII, where possible employed by 
+the notified body itself. 
+The personnel referred to in Sections 3.2.3 and 3.2.7 of Annex VII shall be employed by the notified body itself and 
+shall not be external experts or subcontractors. ",mdr+chapter_IV+article_36,Annex VII; Annex VII; Annex VII; Annex VII,21
+mdr+chapter_IV+article_36+req_2,req,,"
+Notified bodies shall make available and submit upon request all relevant documentation, including the manufac­
+turer's documentation, to the authority responsible for notified bodies to allow it to conduct its assessment, designation, 
+notification, monitoring and surveillance activities and to facilitate the assessment outlined in this Chapter. ",mdr+chapter_IV+article_36,,21
+mdr+chapter_IV+article_36+req_3,req,,"
+In order to ensure the uniform application of the requirements set out in Annex VII, the Commission may adopt 
+implementing acts, to the extent necessary to resolve issues of divergent interpretation and of practical application. 
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3). ",mdr+chapter_IV+article_36,Annex VII; Article 114,21
+mdr+chapter_IV+article_37,article,Subsidiaries and subcontracting ,Subsidiaries and subcontracting ,mdr+chapter_IV,,21
+mdr+chapter_IV+article_37+req_1,req,,"
+Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to 
+a subsidiary for specific tasks connected with conformity assessment, it shall verify that the subcontractor or the 
+subsidiary meets the applicable requirements set out in Annex VII and shall inform the authority responsible for notified 
+bodies accordingly. ",mdr+chapter_IV+article_37,Annex VII,21
+mdr+chapter_IV+article_37+req_2,req,,"
+Notified bodies shall take full responsibility for the tasks performed on their behalf by subcontractors or 
+subsidiaries. ",mdr+chapter_IV+article_37,,21
+mdr+chapter_IV+article_37+req_3,req,,"
+Notified bodies shall make publicly available a list of their subsidiaries. ",mdr+chapter_IV+article_37,,21
+mdr+chapter_IV+article_37+req_4,req,,"
+Conformity assessment activities may be subcontracted or carried out by a subsidiary provided that the legal or 
+natural person that applied for conformity assessment has been informed accordingly. ",mdr+chapter_IV+article_37,,21
+mdr+chapter_IV+article_37+req_5,req,,"
+Notified bodies shall keep at the disposal of the authority responsible for notified bodies all relevant documents 
+concerning the verification of the qualifications of the subcontractor or the subsidiary and the work carried out by them 
+under this Regulation. ",mdr+chapter_IV+article_37,,21
+mdr+chapter_IV+article_38,article,Application by conformity assessment bodies for designation ,Application by conformity assessment bodies for designation ,mdr+chapter_IV,,21
+mdr+chapter_IV+article_38+req_1,req,,"
+Conformity assessment bodies shall submit an application for designation to the authority responsible for notified 
+bodies. ",mdr+chapter_IV+article_38,,21
+mdr+chapter_IV+article_38+req_2,req,,"
+The application shall specify the conformity assessment activities as defined in this Regulation, and the types of 
+devices for which the body is applying to be designated, and shall be supported by documentation demonstrating 
+compliance with Annex VII. 
+In respect of the organisational and general requirements and the quality management requirements set out in 
+Sections 1 and 2 of Annex VII, a valid accreditation certificate and the corresponding evaluation report delivered by 
+a national accreditation body in accordance with Regulation (EC) No 765/2008 may be submitted and shall be taken 
+into consideration during the assessment described in Article 39. However, the applicant shall make available all the 
+documentation referred to in the first subparagraph to demonstrate compliance with those requirements upon request. ",mdr+chapter_IV+article_38,Annex VII; Annex VII; Article 39,21
+mdr+chapter_IV+article_38+req_3,req,,"
+The notified body shall update the documentation referred to in paragraph 2 whenever relevant changes occur, in 
+order to enable the authority responsible for notified bodies to monitor and verify continuous compliance with all the 
+requirements set out in Annex VII. 
+L 117/41 
+",mdr+chapter_IV+article_38,Annex VII,21
+mdr+chapter_IV+article_39,article,Assessment of the application ,Assessment of the application ,mdr+chapter_IV,,22
+mdr+chapter_IV+article_39+req_1,req,,"
+The authority responsible for notified bodies shall within 30 days check that the application referred to in 
+Article 38 is complete and shall request the applicant to provide any missing information. Once the application is 
+complete that authority shall send it to the Commission. 
+The authority responsible for notified bodies shall review the application and supporting documentation in accordance 
+with its own procedures and shall draw up a preliminary assessment report. ",mdr+chapter_IV+article_39,Article 38,22
+mdr+chapter_IV+article_39+req_2,req,,"
+The authority responsible for notified bodies shall submit the preliminary assessment report to the Commission 
+which shall immediately transmit it to the MDCG. ",mdr+chapter_IV+article_39,,22
+mdr+chapter_IV+article_39+req_3,req,,"
+Within 14 days of the submission referred to in paragraph 2 of this Article, the Commission, in conjunction with 
+the MDCG, shall appoint a joint assessment team made up of three experts, unless the specific circumstances require 
+a different number of experts, chosen from the list referred to in Article 40(2). One of the experts shall be a representa­
+tive of the Commission who shall coordinate the activities of the joint assessment team. The other two experts shall 
+come from Member States other than the one in which the applicant conformity assessment body is established. 
+The joint assessment team shall be comprised of experts who are competent to assess the conformity assessment 
+activities and the types of devices which are the subject of the application or, in particular when the assessment 
+procedure is initiated in accordance with Article 47(3), to ensure that the specific concern can be appropriately assessed. ",mdr+chapter_IV+article_39,Article 40; Article 47,22
+mdr+chapter_IV+article_39+req_4,req,,"
+Within 90 days of its appointment, the joint assessment team shall review the documentation submitted with the 
+application in accordance with Article 38. The joint assessment team may provide feedback to, or require clarification 
+from, the authority responsible for notified bodies on the application and on the planned on-site assessment. 
+The authority responsible for notified bodies together with the joint assessment team shall plan and conduct an on-site 
+assessment of the applicant conformity assessment body and, where relevant, of any subsidiary or subcontractor, located 
+inside or outside the Union, to be involved in the conformity assessment process. 
+The on-site assessment of the applicant body shall be led by the authority responsible for notified bodies. ",mdr+chapter_IV+article_39,Article 38,22
+mdr+chapter_IV+article_39+req_5,req,,"
+Findings regarding non-compliance of an applicant conformity assessment body with the requirements set out in 
+Annex VII shall be raised during the assessment process and discussed between the authority responsible for notified 
+bodies and the joint assessment team with a view to reaching consensus and resolving any diverging opinions, with 
+respect to the assessment of the application. 
+At the end of the on-site assessment, the authority responsible for notified bodies shall list for the applicant conformity 
+assessment body the non-compliances resulting from the assessment and summarise the assessment by the joint 
+assessment team. 
+Within a specified timeframe, the applicant conformity assessment body shall submit to the national authority 
+a corrective and preventive action plan to address the non-compliances. ",mdr+chapter_IV+article_39,Annex VII,22
+mdr+chapter_IV+article_39+req_6,req,,"
+The joint assessment team shall document any remaining diverging opinions with respect to the assessment within 
+30 days of completion of the on-site assessment and send them to the authority responsible for notified bodies. ",mdr+chapter_IV+article_39,,22
+mdr+chapter_IV+article_39+req_7,req,,"
+The authority responsible for notified bodies shall following receipt of a corrective and preventive action plan from 
+the applicant body assess whether non-compliances identified during the assessment have been appropriately addressed. 
+This plan shall indicate the root cause of the identified non-compliances and shall include a timeframe for implemen­
+tation of the actions therein. 
+The authority responsible for notified bodies shall having confirmed the corrective and preventive action plan forward it 
+and its opinion thereon to the joint assessment team. The joint assessment team may request of the authority 
+responsible for notified bodies further clarification and modifications. 
+L 117/42 
+
+The authority responsible for notified bodies shall draw up its final assessment report which shall include: 
+—  the result of the assessment, 
+—  confirmation that the corrective and preventive actions have been appropriately addressed and, where required, 
+implemented, 
+—  any remaining diverging opinion with the joint assessment team, and, where applicable, 
+—  the recommended scope of designation. ",mdr+chapter_IV+article_39,,22
+mdr+chapter_IV+article_39+req_8,req,,"
+The authority responsible for notified bodies shall submit its final assessment report and, if applicable, the draft 
+designation to the Commission, the MDCG and the joint assessment team. ",mdr+chapter_IV+article_39,,23
+mdr+chapter_IV+article_39+req_9,req,,"
+The joint assessment team shall provide a final opinion regarding the assessment report prepared by the authority 
+responsible for notified bodies and, if applicable, the draft designation within 21 days of receipt of those documents to 
+the Commission, which shall immediately submit that final opinion to the MDCG. Within 42 days of receipt of the 
+opinion of the joint assessment team, the MDCG shall issue a recommendation with regard to the draft designation, 
+which the authority responsible for notified bodies shall duly take into consideration for its decision on the designation 
+of the notified body. ",mdr+chapter_IV+article_39,,23
+mdr+chapter_IV+article_39+req_10,req,,"
+The Commission may, by means of implementing acts, adopt measures setting out the detailed arrangements 
+specifying procedures and reports for the application for designation referred to in Article 38 and the assessment of the 
+application set out in this Article. Those implementing acts shall be adopted in accordance with the examination 
+procedure referred to in Article 114(3). ",mdr+chapter_IV+article_39,Article 38; Article 114,23
+mdr+chapter_IV+article_40,article,Nomination of experts for joint assessment of applications for notification ,Nomination of experts for joint assessment of applications for notification ,mdr+chapter_IV,,23
+mdr+chapter_IV+article_40+req_1,req,,"
+The Member States and the Commission shall nominate experts qualified in the assessment of conformity 
+assessment bodies in the field of medical devices to participate in the activities referred to in Articles 39 and 48. ",mdr+chapter_IV+article_40,,23
+mdr+chapter_IV+article_40+req_2,req,,"
+The Commission shall maintain a list of the experts nominated pursuant to paragraph 1 of this Article, together 
+with information on their specific field of competence and expertise. That list shall be made available to Member States 
+competent authorities through the electronic system referred to in Article 57. ",mdr+chapter_IV+article_40,Article 57,23
+mdr+chapter_IV+article_41,article,Language requirements ,Language requirements ,mdr+chapter_IV,,23
+mdr+chapter_IV+article_41+req_noid,req,,"All documents required pursuant to Articles 38 and 39 shall be drawn up in a language or languages which shall be 
+determined by the Member State concerned. 
+Member States, in applying the first paragraph, shall consider accepting and using a commonly understood language in 
+the medical field, for all or part of the documentation concerned. 
+The Commission shall provide translations of the documentation pursuant to Articles 38 and 39, or parts thereof into 
+an official Union language, such as is necessary for that documentation to be readily understood by the joint assessment 
+team appointed in accordance with Article 39(3). ",mdr+chapter_IV+article_41,Article 39,23
+mdr+chapter_IV+article_42,article,Designation and notification procedure ,Designation and notification procedure ,mdr+chapter_IV,,23
+mdr+chapter_IV+article_42+req_1,req,,"
+Member States may only designate conformity assessment bodies for which the assessment pursuant to Article 39 
+was completed and which comply with Annex VII. ",mdr+chapter_IV+article_42,Article 39; Annex VII,23
+mdr+chapter_IV+article_42+req_2,req,,"
+Member States shall notify the Commission and the other Member States of the conformity assessment bodies they 
+have designated, using the electronic notification tool within the database of notified bodies developed and managed by 
+the Commission (NANDO). ",mdr+chapter_IV+article_42,,23
+mdr+chapter_IV+article_42+req_3,req,,"
+The notification shall clearly specify, using the codes referred to in paragraph 13 of this Article, the scope of the 
+designation indicating the conformity assessment activities as defined in this Regulation and the types of devices which 
+the notified body is authorised to assess and, without prejudice to Article 44, any conditions associated with the 
+designation. 
+L 117/43 
+",mdr+chapter_IV+article_42,Article 44,23
+mdr+chapter_IV+article_42+req_4,req,,"
+The notification shall be accompanied by the final assessment report of the authority responsible for notified 
+bodies, the final opinion of the joint assessment team referred to in Article 39(9) and the recommendation of the 
+MDCG. Where the notifying Member State does not follow the recommendation of the MDCG, it shall provide a duly 
+substantiated justification. ",mdr+chapter_IV+article_42,Article 39,24
+mdr+chapter_IV+article_42+req_5,req,,"
+The notifying Member State shall, without prejudice to Article 44, inform the Commission and the other 
+Member States of any conditions associated with the designation and provide documentary evidence regarding the 
+arrangements in place to ensure that the notified body will be monitored regularly and will continue to satisfy the 
+requirements set out in Annex VII. ",mdr+chapter_IV+article_42,Article 44; Annex VII,24
+mdr+chapter_IV+article_42+req_6,req,,"
+Within 28 days of the notification referred to in paragraph 2, a Member State or the Commission may raise 
+written objections, setting out its arguments, with regard either to the notified body or to its monitoring by the 
+authority responsible for notified bodies. Where no objection is raised, the Commission shall publish in NANDO the 
+notification within 42 days of its having been notified as referred to in paragraph 2. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_7,req,,"
+When a Member State or the Commission raises objections in accordance with paragraph 6, the Commission shall 
+bring the matter before the MDCG within 10 days of the expiry of the period referred to in paragraph 6. After 
+consulting the parties involved, the MDCG shall give its opinion at the latest within 40 days of the matter having been 
+brought before it. Where the MDCG is of the opinion that the notification can be accepted, the Commission shall 
+publish in NANDO the notification within 14 days. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_8,req,,"
+Where the MDCG, after having been consulted in accordance with paragraph 7, confirms the existing objection or 
+raises another objection, the notifying Member State shall provide a written response to the MDCG opinion within 
+40 days of its receipt. The response shall address the objections raised in the opinion, and set out the reasons for the 
+notifying Member State's decision to designate or not designate the conformity assessment body. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_9,req,,"
+Where the notifying Member State decides to uphold its decision to designate the conformity assessment body, 
+having given its reasons in accordance with paragraph 8, the Commission shall publish in NANDO the notification 
+within 14 days of being informed thereof. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_10,req,,"
+When publishing the notification in NANDO, the Commission shall also add to the electronic system referred to 
+in Article 57 the information relating to the notification of the notified body along with the documents mentioned in 
+paragraph 4 of this Article and the opinion and responses referred to in paragraphs 7 and 8 of this Article. ",mdr+chapter_IV+article_42,Article 57,24
+mdr+chapter_IV+article_42+req_11,req,,"
+The designation shall become valid the day after the notification is published in NANDO. The published 
+notification shall state the scope of lawful conformity assessment activity of the notified body. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_12,req,,"
+The conformity assessment body concerned may perform the activities of a notified body only after the 
+designation has become valid in accordance with paragraph 11. ",mdr+chapter_IV+article_42,,24
+mdr+chapter_IV+article_42+req_13,req,,"
+The Commission shall by 26 November 2017, by means of implementing acts, draw up a list of codes and 
+corresponding types of devices for the purpose of specifying the scope of the designation of notified bodies. Those 
+implementing acts shall be adopted in accordance with the examination procedure referred to in Article 114(3). The 
+Commission, after consulting the MDCG, may update this list based, inter alia, on information arising from the 
+coordination activities described in Article 48. ",mdr+chapter_IV+article_42,Article 114; Article 48,24
+mdr+chapter_IV+article_43,article,Identification number and list of notified bodies ,Identification number and list of notified bodies ,mdr+chapter_IV,,24
+mdr+chapter_IV+article_43+req_1,req,,"
+The Commission shall assign an identification number to each notified body for which the notification becomes 
+valid in accordance with Article 42(11). It shall assign a single identification number even when the body is notified 
+under several Union acts. If they are successfully designated in accordance with this Regulation, bodies notified pursuant 
+to Directives 90/385/EEC and 93/42/EEC shall retain the identification number assigned to them pursuant to those 
+Directives. ",mdr+chapter_IV+article_43,Article 42,24
+mdr+chapter_IV+article_43+req_2,req,,"
+The Commission shall make the list of the bodies notified under this Regulation, including the identification 
+numbers that have been assigned to them and the conformity assessment activities as defined in this Regulation and the 
+types of devices for which they have been notified, accessible to the public in NANDO. It shall also make this list 
+available on the electronic system referred to in Article 57. The Commission shall ensure that the list is kept up to date. 
+L 117/44 
+",mdr+chapter_IV+article_43,Article 57,24
+mdr+chapter_IV+article_44,article,Monitoring and re-assessment of notified bodies ,Monitoring and re-assessment of notified bodies ,mdr+chapter_IV,,25
+mdr+chapter_IV+article_44+req_1,req,,"
+Notified bodies shall, without delay, and at the latest within 15 days, inform the authority responsible for notified 
+bodies of relevant changes which may affect their compliance with the requirements set out in Annex VII or their ability 
+to conduct the conformity assessment activities relating to the devices for which they have been designated. ",mdr+chapter_IV+article_44,Annex VII,25
+mdr+chapter_IV+article_44+req_2,req,,"
+The authorities responsible for notified bodies shall monitor the notified bodies established on their territory and 
+their subsidiaries and subcontractors to ensure ongoing compliance with the requirements and the fulfilment of its 
+obligations set out in this Regulation. Notified bodies shall, upon request by their authority responsible for notified 
+bodies, supply all relevant information and documents, required to enable the authority, the Commission and other 
+Member States to verify compliance. ",mdr+chapter_IV+article_44,,25
+mdr+chapter_IV+article_44+req_3,req,,"
+Where the Commission or the authority of a Member State submits a request to a notified body established on the 
+territory of another Member State relating to a conformity assessment carried out by that notified body, it shall send 
+a copy of that request to the authority responsible for notified bodies of that other Member State. The notified body 
+concerned shall respond without delay and within 15 days at the latest to the request. The authority responsible for 
+notified bodies of the Member State in which the body is established shall ensure that requests submitted by authorities 
+of any other Member State or by the Commission are resolved by the notified body unless there is a legitimate reason 
+for not doing so in which case the matter may be referred to the MDCG. ",mdr+chapter_IV+article_44,,25
+mdr+chapter_IV+article_44+req_4,req,,"
+At least once a year, the authorities responsible for notified bodies shall re-assess whether the notified bodies 
+established on their respective territory and, where appropriate, the subsidiaries and subcontractors under the responsi­
+bility of those notified bodies still satisfy the requirements and fulfil their obligations set out in Annex VII. That review 
+shall include an on-site audit of each notified body and, where necessary, of its subsidiaries and subcontractors. 
+The authority responsible for notified bodies shall conduct its monitoring and assessment activities according to an 
+annual assessment plan to ensure that it can effectively monitor the continued compliance of the notified body with the 
+requirements of this Regulation. That plan shall provide a reasoned schedule for the frequency of assessment of the 
+notified body and, in particular, associated subsidiaries and subcontractors. The authority shall submit its annual plan 
+for monitoring or assessment for each notified body for which it is responsible to the MDCG and to the Commission. ",mdr+chapter_IV+article_44,Annex VII,25
+mdr+chapter_IV+article_44+req_5,req,,"
+The monitoring of notified bodies by the authority responsible for notified bodies shall include observed audits of 
+notified body personnel, including where necessary any personnel from subsidiaries and subcontractors, as that 
+personnel is in the process of conducting quality management system assessments at a manufacturer's facility. ",mdr+chapter_IV+article_44,,25
+mdr+chapter_IV+article_44+req_6,req,,"
+The monitoring of notified bodies conducted by the authority responsible for notified bodies shall consider data 
+arising from market surveillance, vigilance and post-market surveillance to help guide its activities. 
+The authority responsible for notified bodies shall provide for a systematic follow-up of complaints and other 
+information, including from other Member States, which may indicate non-fulfilment of the obligations by a notified 
+body or its deviation from common or best practice. ",mdr+chapter_IV+article_44,,25
+mdr+chapter_IV+article_44+req_7,req,,"
+The authority responsible for notified bodies may in addition to regular monitoring or on-site assessments conduct 
+short-notice, unannounced or ‘for-cause’ reviews if needed to address a particular issue or to verify compliance. ",mdr+chapter_IV+article_44,,25
+mdr+chapter_IV+article_44+req_8,req,,"
+The authority responsible for notified bodies shall review the assessments by notified bodies of manufacturers' 
+technical documentation, in particular the clinical evaluation documentation as further outlined in Article 45. ",mdr+chapter_IV+article_44,Article 45,25
+mdr+chapter_IV+article_44+req_9,req,,"
+The authority responsible for notified bodies shall document and record any findings regarding non-compliance of 
+the notified body with the requirements set out in Annex VII and shall monitor the timely implementation of corrective 
+and preventive actions. ",mdr+chapter_IV+article_44,Annex VII,25
+mdr+chapter_IV+article_44+req_10,req,,"
+Three years after notification of a notified body, and again every fourth year thereafter, a complete re-assessment 
+to determine whether the notified body still satisfies the requirements set out in Annex VII shall be conducted by the 
+authority responsible for notified bodies of the Member State in which the body is established and by a joint assessment 
+team appointed for the purpose of the procedure described in Articles 38 and 39. 
+L 117/45 
+",mdr+chapter_IV+article_44,Annex VII,25
+mdr+chapter_IV+article_44+req_11,req,,"
+The Commission is empowered to adopt delegated acts in accordance with Article 115 in order to amend 
+paragraph 10 to modify the frequency at which the complete re-assessment referred to in that paragraph is to be carried 
+out. ",mdr+chapter_IV+article_44,Article 115,26
+mdr+chapter_IV+article_44+req_12,req,,"
+The Member States shall report to the Commission and to the MDCG, at least once a year, on their monitoring 
+and on-site assessment activities regarding notified bodies and, where applicable, subsidiaries and subcontractors. The 
+report shall provide details of the outcome of those activities, including activities pursuant to paragraph 7, and shall be 
+treated as confidential by the MDCG and the Commission; however it shall contain a summary which shall be made 
+publicly available. 
+The summary of the report shall be uploaded to the electronic system referred to in Article 57. ",mdr+chapter_IV+article_44,Article 57,26
+mdr+chapter_IV+article_45,article,Review of notified body assessment of technical documentation and clinical evaluation ,Review of notified body assessment of technical documentation and clinical evaluation ,mdr+chapter_IV,,26
+mdr+chapter_IV+article_45+req_noid,req,,documentation ,mdr+chapter_IV+article_45,,26
+mdr+chapter_IV+article_45+req_1,req,,"
+The authority responsible for notified bodies, as part of its ongoing monitoring of notified bodies, shall review an 
+appropriate number of notified body assessments of manufacturers' technical documentation, in particular the clinical 
+evaluation documentation as referred to in points (c) and (d) of Section 6.1 of Annex II to verify the conclusions drawn 
+by the notified body based on the information presented by the manufacturer. The reviews by the authority responsible 
+for notified bodies shall be conducted both off-site and on-site. ",mdr+chapter_IV+article_45,Annex II,26
+mdr+chapter_IV+article_45+req_2,req,,"
+The sampling of files to be reviewed in accordance with paragraph 1 shall be planned and representative of the 
+types and risk of devices certified by the notified body, in particular high-risk devices, and be appropriately justified and 
+documented in a sampling plan, which shall be made available by the authority responsible for notified bodies to the 
+MDCG upon request. ",mdr+chapter_IV+article_45,,26
+mdr+chapter_IV+article_45+req_3,req,,"
+The authority responsible for notified bodies shall review whether the assessment by the notified body was 
+conducted appropriately and shall check the procedures used, associated documentation and the conclusions drawn by 
+the notified body. Such checking shall include the technical documentation and clinical evaluation documentation of the 
+manufacturer upon which the notified body has based its assessment. Such reviews shall be conducted utilising CS. ",mdr+chapter_IV+article_45,,26
+mdr+chapter_IV+article_45+req_4,req,,"
+Those reviews shall also form part of the re-assessment of notified bodies in accordance with Article 44(10) and 
+the joint assessment activities referred to in Article 47(3). The reviews shall be conducted utilising appropriate expertise. ",mdr+chapter_IV+article_45,Article 44; Article 47,26
+mdr+chapter_IV+article_45+req_5,req,,"
+Based on the reports of the reviews and assessments by the authority responsible for notified bodies or joint 
+assessment teams, on input from the market surveillance, vigilance and post-market surveillance activities described in 
+Chapter VII, on the continuous monitoring of technical progress, or on the identification of concerns and emerging 
+issues concerning the safety and performance of devices, the MDCG may recommend that the sampling, carried out 
+under this Article, cover a greater or lesser proportion of the technical documentation and clinical evaluation documen­
+tation assessed by a notified body. ",mdr+chapter_IV+article_45,,26
+mdr+chapter_IV+article_45+req_6,req,,"
+The Commission may, by means of implementing acts, adopt measures setting out the detailed arrangements, 
+associated documents for, and coordination of, the review of assessments of technical documentation and clinical 
+evaluation documentation, as referred to in this Article. Those implementing acts shall be adopted in accordance with 
+the examination procedure referred to in Article 114(3). ",mdr+chapter_IV+article_45,Article 114,26
+mdr+chapter_IV+article_46,article,Changes to designations and notifications ,Changes to designations and notifications ,mdr+chapter_IV,,26
+mdr+chapter_IV+article_46+req_1,req,,"
+The authority responsible for notified bodies shall notify the Commission and the other Member States of any 
+relevant changes to the designation of a notified body. 
+The procedures described in Article 39 and in Article 42 shall apply to extensions of the scope of the designation. 
+For changes to the designation other than extensions of its scope, the procedures laid down in the following paragraphs 
+shall apply. 
+L 117/46 
+",mdr+chapter_IV+article_46,Article 39; Article 42,26
+mdr+chapter_IV+article_46+req_2,req,,"
+The Commission shall immediately publish the amended notification in NANDO. The Commission shall 
+immediately enter information on the changes to the designation of the notified body in the electronic system referred 
+to in Article 57. ",mdr+chapter_IV+article_46,Article 57,27
+mdr+chapter_IV+article_46+req_3,req,,"
+Where a notified body decides to cease its conformity assessment activities it shall inform the authority responsible 
+for notified bodies and the manufacturers concerned as soon as possible and in the case of a planned cessation one year 
+before ceasing its activities. The certificates may remain valid for a temporary period of nine months after cessation of 
+the notified body's activities on condition that another notified body has confirmed in writing that it will assume 
+responsibilities for the devices covered by those certificates. The new notified body shall complete a full assessment of 
+the devices affected by the end of that period before issuing new certificates for those devices. Where the notified body 
+has ceased its activity, the authority responsible for notified bodies shall withdraw the designation. ",mdr+chapter_IV+article_46,,27
+mdr+chapter_IV+article_46+req_4,req,,"
+Where a authority responsible for notified bodies has ascertained that a notified body no longer meets the 
+requirements set out in Annex VII, or that it is failing to fulfil its obligations or has not implemented the necessary 
+corrective measures, the authority shall suspend, restrict, or fully or partially withdraw the designation, depending on 
+the seriousness of the failure to meet those requirements or fulfil those obligations. A suspension shall not exceed 
+a period of one year, renewable once for the same period. 
+The authority responsible for notified bodies shall immediately inform the Commission and the other Member States of 
+any suspension, restriction or withdrawal of a designation. ",mdr+chapter_IV+article_46,Annex VII,27
+mdr+chapter_IV+article_46+req_5,req,,"
+Where its designation has been suspended, restricted, or fully or partially withdrawn, the notified body shall 
+inform the manufacturers concerned at the latest within 10 days. ",mdr+chapter_IV+article_46,,27
+mdr+chapter_IV+article_46+req_6,req,,"
+In the event of restriction, suspension or withdrawal of a designation, the authority responsible for notified bodies 
+shall take appropriate steps to ensure that the files of the notified body concerned are kept and make them available to 
+authorities in other Member States responsible for notified bodies and to authorities responsible for market surveillance 
+at their request. ",mdr+chapter_IV+article_46,,27
+mdr+chapter_IV+article_46+req_7,req,,"
+In the event of restriction, suspension or withdrawal of a designation, the authority responsible for notified bodies 
+shall: ",mdr+chapter_IV+article_46,,27
+mdr+chapter_IV+article_46+req_7+sreq_a,sreq,,assess the impact on the certificates issued by the notified body; ,mdr+chapter_IV+article_46+req_7,,27
+mdr+chapter_IV+article_46+req_7+sreq_b,sreq,,"submit a report on its findings to the Commission and the other Member States within three months of having 
+notified the changes to the designation; ",mdr+chapter_IV+article_46+req_7,,27
+mdr+chapter_IV+article_46+req_7+sreq_c,sreq,,"require the notified body to suspend or withdraw, within a reasonable period of time determined by the authority, 
+any certificates which were unduly issued to ensure the safety of devices on the market; ",mdr+chapter_IV+article_46+req_7,,27
+mdr+chapter_IV+article_46+req_7+sreq_d,sreq,,"enter into the electronic system referred to in Article 57 information in relation to certificates of which it has 
+required their suspension or withdrawal; ",mdr+chapter_IV+article_46+req_7,Article 57,27
+mdr+chapter_IV+article_46+req_7+sreq_e,sreq,,"inform the competent authority for medical devices of the Member State in which the manufacturer has its 
+registered place of business through the electronic system referred to in Article 57 of the certificates for which it has 
+required suspension or withdrawal. That competent authority shall take the appropriate measures, where necessary 
+to avoid a potential risk to the health or safety of patients, users or others. ",mdr+chapter_IV+article_46+req_7,Article 57,27
+mdr+chapter_IV+article_46+req_8,req,,"
+With the exception of certificates unduly issued, and where a designation has been suspended or restricted, the 
+certificates shall remain valid in the following circumstances: ",mdr+chapter_IV+article_46,,27
+mdr+chapter_IV+article_46+req_8+sreq_a,sreq,,"the authority responsible for notified bodies has confirmed, within one month of the suspension or restriction, that 
+there is no safety issue in relation to certificates affected by the suspension or restriction, and the authority 
+responsible for notified bodies has outlined a timeline and actions anticipated to remedy the suspension or 
+restriction; or ",mdr+chapter_IV+article_46+req_8,,27
+mdr+chapter_IV+article_46+req_8+sreq_b,sreq,,"the authority responsible for notified bodies has confirmed that no certificates relevant to the suspension will be 
+issued, amended or re-issued during the course of the suspension or restriction, and states whether the notified body 
+has the capability of continuing to monitor and remain responsible for existing certificates issued for the period of 
+the suspension or restriction. In the event that the authority responsible for notified bodies determines that the 
+notified body does not have the capability to support existing certificates issued, the manufacturer shall provide, to 
+the competent authority for medical devices of the Member State in which the manufacturer of the device covered 
+by the certificate has its registered place of business, within three months of the suspension or restriction, a written 
+confirmation that another qualified notified body is temporarily assuming the functions of the notified body to 
+monitor and remain responsible for the certificates during the period of suspension or restriction. 
+L 117/47 
+",mdr+chapter_IV+article_46+req_8,,27
+mdr+chapter_IV+article_46+req_9,req,,"
+With the exception of certificates unduly issued, and where a designation has been withdrawn, the certificates shall 
+remain valid for a period of nine months in the following circumstances: ",mdr+chapter_IV+article_46,,28
+mdr+chapter_IV+article_46+req_9+sreq_a,sreq,,"where the competent authority for medical devices of the Member State in which the manufacturer of the device 
+covered by the certificate has its registered place of business has confirmed that there is no safety issue associated 
+with the devices in question; and ",mdr+chapter_IV+article_46+req_9,,28
+mdr+chapter_IV+article_46+req_9+sreq_b,sreq,,"another notified body has confirmed in writing that it will assume immediate responsibilities for those devices and 
+will have completed assessment of them within twelve months of the withdrawal of the designation. 
+In the circumstances referred to in the first subparagraph, the competent authority for medical devices of the 
+Member State in which the manufacturer of the device covered by the certificate has its place of business may extend the 
+provisional validity of the certificates for further periods of three months, which altogether shall not exceed 
+twelve months. 
+The authority or the notified body assuming the functions of the notified body affected by the change of designation 
+shall immediately inform the Commission, the other Member States and the other notified bodies thereof. ",mdr+chapter_IV+article_46+req_9,,28
+mdr+chapter_IV+article_47,article,Challenge to the competence of notified bodies ,Challenge to the competence of notified bodies ,mdr+chapter_IV,,28
+mdr+chapter_IV+article_47+req_1,req,,"
+The Commission, in conjunction with the MDCG, shall investigate all cases where concerns have been brought to 
+its attention regarding the continued fulfilment by a notified body, or of one or more of its subsidiaries or subcon­
+tractors, of the requirements set out in Annex VII or the obligations to which they are subject. It shall ensure that the 
+relevant authority responsible for notified bodies is informed and is given an opportunity to investigate those concerns. ",mdr+chapter_IV+article_47,Annex VII,28
+mdr+chapter_IV+article_47+req_2,req,,"
+The notifying Member State shall provide the Commission, on request, with all information regarding the 
+designation of the notified body concerned. ",mdr+chapter_IV+article_47,,28
+mdr+chapter_IV+article_47+req_3,req,,"
+The Commission, in conjunction with the MDCG, may initiate, as applicable, the assessment procedure described 
+in Article 39(3) and (4), where there is reasonable concern about the ongoing compliance of a notified body or 
+a subsidiary or subcontractor of the notified body with the requirements set out in Annex VII and where the investi­
+gation by the authority responsible for notified bodies is not deemed to have fully addressed the concerns or upon 
+request of the authority responsible for notified bodies. The reporting and outcome of that assessment shall follow the 
+principles of Article 39. Alternatively, depending on the severity of the issue, the Commission, in conjunction with the 
+MDCG, may request that the authority responsible for notified bodies allow the participation of up to two experts from 
+the list established pursuant to Article 40 in an on-site assessment as part of the planned monitoring and assessment 
+activities in accordance with Article 44 and as outlined in the annual assessment plan described in Article 44(4). ",mdr+chapter_IV+article_47,Article 39; Annex VII; Article 39; Article 40; Article 44; Article 44,28
+mdr+chapter_IV+article_47+req_4,req,,"
+Where the Commission ascertains that a notified body no longer meets the requirements for its designation, it 
+shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including 
+the suspension, restriction or withdrawal of the designation if necessary. 
+Where the Member State fails to take the necessary corrective measures, the Commission may, by means of 
+implementing acts, suspend, restrict or withdraw the designation. Those implementing acts shall be adopted in 
+accordance with the examination procedure referred to in Article 114(3). It shall notify the Member State concerned of 
+its decision and update NANDO and the electronic system referred to in Article 57. ",mdr+chapter_IV+article_47,Article 114; Article 57,28
+mdr+chapter_IV+article_47+req_5,req,,"
+The Commission shall ensure that all confidential information obtained in the course of its investigations is treated 
+accordingly. ",mdr+chapter_IV+article_47,,28
+mdr+chapter_IV+article_48,article,Peer review and exchange of experience between authorities responsible for notified bodies ,Peer review and exchange of experience between authorities responsible for notified bodies ,mdr+chapter_IV,,28
+mdr+chapter_IV+article_48+req_1,req,,"
+The Commission shall provide for the organisation of exchange of experience and coordination of administrative 
+practice between the authorities responsible for notified bodies. Such exchange shall cover elements including: ",mdr+chapter_IV+article_48,,28
+mdr+chapter_IV+article_48+req_1+sreq_a,sreq,,"development of best practice documents relating to the activities of the authorities responsible for notified bodies; 
+L 117/48 
+",mdr+chapter_IV+article_48+req_1,,28

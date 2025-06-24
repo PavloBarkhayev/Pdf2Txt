@@ -1,0 +1,49 @@
+id,type,title,parent,page
+mdr,doc,MDR REGULATION (EU) 2017/745 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL,,0
+mdr+chapter_II,chapter,"MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, REPROCESSING, CE MARKING, FREE MOVEMENT ",mdr,1
+mdr+chapter_II+article_5,article,Placing on the market and putting into service ,mdr+chapter_II,1
+mdr+chapter_II+article_6,article,Distance sales ,mdr+chapter_II,2
+mdr+chapter_II+article_7,article,Claims ,mdr+chapter_II,2
+mdr+chapter_II+article_8,article,Use of harmonised standards ,mdr+chapter_II,2
+mdr+chapter_II+article_9,article,Common specifications ,mdr+chapter_II,3
+mdr+chapter_II+article_10,article,General obligations of manufacturers ,mdr+chapter_II,3
+mdr+chapter_II+article_11,article,Authorised representative ,mdr+chapter_II,5
+mdr+chapter_II+article_12,article,Change of authorised representative ,mdr+chapter_II,6
+mdr+chapter_II+article_13,article,General obligations of importers ,mdr+chapter_II,6
+mdr+chapter_II+article_14,article,General obligations of distributors ,mdr+chapter_II,7
+mdr+chapter_II+article_15,article,Person responsible for regulatory compliance ,mdr+chapter_II,8
+mdr+chapter_II+article_16,article,"Cases in which obligations of manufacturers apply to importers, distributors or other persons ",mdr+chapter_II,9
+mdr+chapter_II+article_17,article,Single-use devices and their reprocessing ,mdr+chapter_II,10
+mdr+chapter_II+article_18,article,Implant card and information to be supplied to the patient with an implanted device ,mdr+chapter_II,11
+mdr+chapter_II+article_19,article,EU declaration of conformity ,mdr+chapter_II,12
+mdr+chapter_II+article_20,article,CE marking of conformity ,mdr+chapter_II,12
+mdr+chapter_II+article_21,article,Devices for special purposes ,mdr+chapter_II,13
+mdr+chapter_II+article_22,article,Systems and procedure packs ,mdr+chapter_II,13
+mdr+chapter_II+article_23,article,Parts and components ,mdr+chapter_II,14
+mdr+chapter_II+article_24,article,Free movement ,mdr+chapter_II,14
+mdr+chapter_III,chapter,"IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES ",mdr,14
+mdr+chapter_III+article_25,article,Identification within the supply chain ,mdr+chapter_III,14
+mdr+chapter_III+article_26,article,Medical devices nomenclature ,mdr+chapter_III,14
+mdr+chapter_III+article_27,article,Unique Device Identification system ,mdr+chapter_III,15
+mdr+chapter_III+article_28,article,UDI database ,mdr+chapter_III,16
+mdr+chapter_III+article_29,article,Registration of devices ,mdr+chapter_III,17
+mdr+chapter_III+article_30,article,Electronic system for registration of economic operators ,mdr+chapter_III,17
+mdr+chapter_III+article_31,article,"Registration of manufacturers, authorised representatives and importers ",mdr+chapter_III,17
+mdr+chapter_III+article_32,article,Summary of safety and clinical performance ,mdr+chapter_III,18
+mdr+chapter_III+article_33,article,European database on medical devices ,mdr+chapter_III,18
+mdr+chapter_III+article_34,article,Functionality of Eudamed ,mdr+chapter_III,20
+mdr+chapter_IV,chapter,NOTIFIED BODIES ,mdr,20
+mdr+chapter_IV+article_35,article,Authorities responsible for notified bodies ,mdr+chapter_IV,20
+mdr+chapter_IV+article_36,article,Requirements relating to notified bodies ,mdr+chapter_IV,21
+mdr+chapter_IV+article_37,article,Subsidiaries and subcontracting ,mdr+chapter_IV,21
+mdr+chapter_IV+article_38,article,Application by conformity assessment bodies for designation ,mdr+chapter_IV,21
+mdr+chapter_IV+article_39,article,Assessment of the application ,mdr+chapter_IV,22
+mdr+chapter_IV+article_40,article,Nomination of experts for joint assessment of applications for notification ,mdr+chapter_IV,23
+mdr+chapter_IV+article_41,article,Language requirements ,mdr+chapter_IV,23
+mdr+chapter_IV+article_42,article,Designation and notification procedure ,mdr+chapter_IV,23
+mdr+chapter_IV+article_43,article,Identification number and list of notified bodies ,mdr+chapter_IV,24
+mdr+chapter_IV+article_44,article,Monitoring and re-assessment of notified bodies ,mdr+chapter_IV,25
+mdr+chapter_IV+article_45,article,Review of notified body assessment of technical documentation and clinical evaluation ,mdr+chapter_IV,26
+mdr+chapter_IV+article_46,article,Changes to designations and notifications ,mdr+chapter_IV,26
+mdr+chapter_IV+article_47,article,Challenge to the competence of notified bodies ,mdr+chapter_IV,28
+mdr+chapter_IV+article_48,article,Peer review and exchange of experience between authorities responsible for notified bodies ,mdr+chapter_IV,28
